@@ -1,15 +1,19 @@
-# VM et architecture — la carte complète du travail documenté
+# VM et architecture — circuits fonctionnels et dossiers
 
 **MarcelDuSHAmp · Collaboration IA : ASTRA GPT-6**  
 État croisé des rapports au **22 octobre 2026**. [Accueil du dépôt](../README.md) · [Parcours en dix minutes](../PARCOURS_10_MIN.md)
 
-Nous cherchons si Liber Primus enseigne à construire puis à employer ses propres objets de lecture. Cette arborescence relie les sources, la mémoire F0, les lecteurs, les modules, les essais de machine et les sorties candidates. **Plusieurs compositions se calculent exactement ; une VM capable de choisir seule son instruction suivante n’est pas reconstruite.**
+**[Ouvrir l’arborescence fonctionnelle détaillée](FONCTIONNELLE.md) : 12 circuits, 96 objets ou fonctions, 138 liaisons typées, avec rattachement des171 fiches.** Elle expose les entrées, opérations, sorties, raccords entre modules, boucles proposées, branches réfutées et mécanismes manquants.
 
-![Arborescence de l’architecture : sources, objets, opérations, modules, exécution, sorties, contre-épreuves et provenance](../images/architecture-vm.svg)
+Nous cherchons si Liber Primus enseigne à construire puis à employer ses propres objets de lecture. **Plusieurs compositions se calculent exactement ; une VM capable de choisir seule son instruction suivante n’est pas reconstruite.** La carte précédente présentait le plan des huit dossiers. Ce plan documentaire est conservé plus bas ; le nouveau graphe décrit les relations fonctionnelles étudiées.
 
-Les traits de cette carte organisent le dossier. Ils ne représentent pas un programme dont toutes les transitions seraient prouvées. Dans l’index HTML du dépôt, la rubrique **« Architecture / VM »** permet de déplier les branches et leurs dossiers sans connexion.
+![Vue des principaux raccords entre les douze circuits](../images/architecture-fonctionnelle.svg)
 
-## Les huit branches
+Cette image est une vue d’entrée sélective. Les **138 liaisons** et leurs contrats figurent dans [FONCTIONNELLE.md](FONCTIONNELLE.md), avec douze graphes détaillés, et dans le [JSON du graphe](graphe-fonctionnel.json). Le lecteur hors ligne `INDEX.html` permet de chercher un objet ou une source, d’ouvrir ses propriétés et de suivre ses raccords vers les autres circuits.
+
+Le graphe couvre les recherches du registre public et les cinq audits récents consultés. Le rattachement des171 fiches est vérifiable en fin de document. Il ne signifie pas que tous les4521 fichiers privés ont été convertis en fonctions, ni que tous les composants manquants d’une VM ont été trouvés.
+
+## Les huit dossiers explicatifs
 
 | Branche | Sous-branches et question traitée | Dossier |
 |---|---|---|
@@ -38,12 +42,13 @@ Les traits de cette carte organisent le dossier. Ils ne représentent pas un pro
 
 ```bash
 python3 architecture/rejouer.py
+python3 outils/generer_graphe_fonctionnel.py
 python3 calculs/verifier_dossier.py
 python3 calculs/reproduire_onion.py
 ```
 
 Le [rejeu de la carte](rejouer.py) contrôle les deux binaires F0, les conversions, les cadres, les contre-exemples de routage et les exports A/B. Il écrit [resultats.json](resultats.json). Il ne retranscrit pas les runes et ne relance pas les archives Tor. Les chemins runiques dont la transcription complète n’est pas jointe gardent leur attribution aux rapports.
 
-Le [modèle de navigation](modele.json) expose les branches et leurs liens. Il décrit le dossier ; ce n’est pas un microcode de Liber Primus. Les [171 fiches](../recherches/README.md) restent accessibles dans leurs 12 familles. La carte couvre les familles architecturales documentées et leurs impasses ; elle ne prétend pas contenir toutes les archives privées ni toutes les idées jamais essayées.
+Le [graphe fonctionnel](graphe-fonctionnel.json) décrit chaque objet et liaison, son contrat et ses sources. Le [modèle de navigation](modele.json) et l’[ancienne carte des huit dossiers](../images/architecture-vm.svg) décrivent seulement le classement éditorial. Aucun de ces fichiers n’est un microcode de Liber Primus. Les [171 fiches](../recherches/README.md) restent accessibles dans leurs12 familles.
 
 Deux suites utiles : chercher une commande indépendante de conversion/type sur un nouveau locus ; identifier le consommateur de 80 ou de 132 sans sélectionner sa destination après le calcul. L’exploration d’autres gestes reste ouverte ; seules les affirmations de validation demandent un contrôle indépendant.

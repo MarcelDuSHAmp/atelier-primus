@@ -8,4 +8,6 @@ Les trois figures `images/parcours-*.svg` sont des schémas pédagogiques produi
 
 La carte `images/architecture-vm.svg` organise les huit dossiers de l’[architecture](architecture/README.md). Son [générateur](outils/generer_architecture.py), le modèle de navigation et les contrôles locaux sont des ajouts éditoriaux du projet. Les contributions des solveurs, les audits antérieurs et le protocole Tor restent crédités séparément dans les [sources de la carte](architecture/SOURCES.md).
 
+Le [graphe fonctionnel](architecture/FONCTIONNELLE.md), ses données JSON, la vue `images/architecture-fonctionnelle.svg` et leur [générateur](outils/generer_graphe_fonctionnel.py) constituent une formalisation éditoriale des recherches citées. Les attributions propres aux171 fiches sont conservées dans les sources du JSON ; représenter une opération dans le graphe n’en revendique pas l’invention.
+
 Aucune licence globale nouvelle n’est attribuée à l’ensemble du corpus par cette édition. Les conditions des pièces tierces doivent être examinées séparément pour une réutilisation. Aucun changement de licence des travaux d’autrui n’est revendiqué.

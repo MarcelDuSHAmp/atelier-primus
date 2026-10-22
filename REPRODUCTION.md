@@ -12,6 +12,15 @@ Le premier programme vérifie les 75 empreintes JPEG, les deux F0, leurs six dif
 
 Le troisième contrôle les relations numériques de la [carte d’architecture](architecture/README.md) sur les deux F0 : conversions inverses, payloads D33/D34, BODY36, rangs AND16, contre-exemples, exports A/B et leur inversion. Il écrit `architecture/resultats.json`. Les contrôles de transcription runique et les campagnes historiques Tor restent attribués aux rapports ; ce script ne les relance pas.
 
+Pour régénérer la documentation fonctionnelle et son explorateur :
+
+```bash
+python3 outils/generer_graphe_fonctionnel.py
+python3 outils/generer_index.py
+```
+
+Le générateur valide l’intégrité des96 nœuds,138 relations et rattachements aux171 fiches. C’est une validation documentaire : elle ne transforme pas les hypothèses du graphe en résultats scientifiques validés. Le détail des calculs rejoués et des anciens résultats seulement rapportés reste dans [les sources d’architecture](architecture/SOURCES.md).
+
 | Entrées | Statut |
 |---|---|
 | `images/G000.jpg` à `G074.jpg` | Sources visuelles ; empreintes dans `donnees/images-75.json` |

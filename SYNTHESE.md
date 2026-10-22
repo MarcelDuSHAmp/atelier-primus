@@ -2,7 +2,7 @@
 
 Nous disposons d’objets locaux calculables et d’un historique d’essais conséquent. Leur assemblage en une méthode globale de lecture demeure une hypothèse. La principale difficulté actuelle est de justifier, depuis les pages elles-mêmes, le passage d’un objet à un autre et le choix de l’unité lue.
 
-La [carte VM / architecture](architecture/README.md) organise l’ensemble en huit branches. Elle intègre les audits récents : modules reproductibles, NEXT et état persistant non reconstruits, choix de conversion non commandé, et absence de second secret indépendant identifié pour les candidats Tor. Les fonctions proposées restent distinguées des calculs exacts.
+Le [graphe fonctionnel VM / architecture](architecture/FONCTIONNELLE.md) détaille12 circuits,96 objets ou fonctions et138 liaisons : entrées, opérations, sorties, parcours concurrents, boucles proposées et réfutations. Les [huit dossiers explicatifs](architecture/README.md) restent disponibles. Les audits récents maintiennent NEXT et état persistant comme non reconstruits, le choix de conversion comme non commandé, et l’absence de second secret indépendant identifié pour les candidats Tor. Les fonctions proposées restent distinguées des calculs exacts.
 
 ## Débouché candidat vers Tor
 

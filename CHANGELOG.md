@@ -1,5 +1,14 @@
 # Historique éditorial
 
+## Graphe fonctionnel détaillé — 22 octobre 2026
+
+- Correction de portée : la première « arborescence » était le plan de huit dossiers, pas le graphe fonctionnel des recherches.
+- Ajout de12 circuits,96 objets/fonctions et138 liaisons typées : entrées, opérations, sorties, limites et sources par nœud ; contrats et statut par relation.
+- Parcours concurrents, boucle P01 hypothétique, fonctions VM absentes et réfutations locales conservés ; aucune transition manquante inventée.
+- Rattachement explicite des171 fiches, sans assimiler couverture documentaire et fonction exécutée.
+- Douze graphes Mermaid GitHub, vue SVG d’entrée et explorateur hors ligne intégré à l’index HTML.
+- Aucune nouvelle découverte cryptanalytique, transcription runique ou recherche Tor revendiquée.
+
 ## Arborescence VM / architecture — 22 octobre 2026
 
 - Huit dossiers reliés : sources, objets F0/D, opérations/types, modules, exécution, sorties/auth, réfutations, sources/crédits.

@@ -3,6 +3,8 @@
 **MarcelDuSHAmp · Collaboration IA : ASTRA GPT-6**  
 État au 22 octobre 2026. Calculs SUPPORTÉS sous les conventions décrites ; destination Tor : HYPOTHÈSE ; authentification : INCONCLUSIVE.
 
+**Première lecture : [le parcours illustré en dix minutes](PARCOURS_10_MIN.md).** Cette page conserve les détails et les variantes techniques.
+
 ## Pourquoi chercher une sortie extérieure ?
 
 G073 correspond à la page locale LP2 56.jpg. Son déchiffrement communautaire demande de retrouver une page du deep web identifiée par une empreinte. C’est un appui textuel à la recherche d’un objet extérieur. Le texte résolu ne dit pas « `.onion` » et ne désigne pas explicitement Tor : ce raccord est notre hypothèse d’export. [Référence communautaire](https://www.cicadasolvers.com/quickstart/).
@@ -71,7 +73,9 @@ Le codage alternatif `cchhh` permute les champs : `q' = 8 × (low5 & 3) + high3`
 | Candidat | 80 bits en hexadécimal | Identifiant Base32 |
 |---|---|---|
 | A / `hhhcc` | `d1fd56fddaef873ac8af` | `2h6vn7o256dtvsfp` |
-| E / `hhhcc` | Voir le journal exact (pièce historique non distribuée dans cette édition) | `hdnv2o26765tvsfp` |
+| E / `hhhcc` | `38db5d3b5effbb3ac8af` | `hdnv2o26765tvsfp` |
+
+Les deux valeurs hexadécimales sont vérifiées dans le [journal reproductible joint](calculs/onion-resultats.json).
 
 La spécification historique Tor v2 emploie un identifiant de 80 bits encodé sur 16 caractères Base32 ; pour un vrai service, il dérive du SHA-1 de sa clé publique RSA. Notre calcul fournit une chaîne de ce format, sans fournir la clé qui l’authentifierait. Tout bloc de 80 bits peut être encodé ainsi : la conformité au format n’est pas une preuve d’existence. [Tor Project, sections 1.3 et 1.5](https://torproject.gitlab.io/torspec/rend-spec-v2.html).
 

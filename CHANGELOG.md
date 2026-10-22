@@ -1,5 +1,13 @@
 # Historique éditorial
 
+## Complément pédagogique — 22 octobre 2026
+
+- Parcours « Des pages aux deux candidats » en six étapes, accessible depuis l’accueil.
+- Trois schémas générés depuis les données versionnées : G032, prélèvement/dépôt, retrait des bits constants.
+- Lecture intégrée à l’index HTML ; sources, hypothèses et limites maintenues à chaque étape.
+- Valeur hexadécimale du second candidat explicitée dans la démonstration technique depuis le journal déjà joint.
+- Aucun nouveau résultat scientifique ni authentification Tor revendiqué par cet ajout.
+
 ## v0.1.0 — état scientifique du 22 octobre 2026
 
 - Édition publique sous le pseudonyme MarcelDuSHAmp ; collaboration IA : ASTRA GPT-6.

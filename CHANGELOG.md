@@ -1,5 +1,13 @@
 # Historique éditorial
 
+## Arborescence VM / architecture — 22 octobre 2026
+
+- Huit dossiers reliés : sources, objets F0/D, opérations/types, modules, exécution, sorties/auth, réfutations, sources/crédits.
+- Carte SVG, modèle de navigation JSON et huit branches dépliables dans l’index HTML.
+- Synthèse des cinq audits VM/routage/AUTH récents, sans promouvoir les fonctions candidates en instructions établies.
+- Rejeu local sur les deux F0 : mêmes rangs AND16, mais somme modulo256 des sorties BODY36 égale à33 ou4 selon la version ; détails et limites joints.
+- Distinction maintenue entre calculs locaux, anciens résultats rapportés et validations externes absentes.
+
 ## Complément pédagogique — 22 octobre 2026
 
 - Parcours « Des pages aux deux candidats » en six étapes, accessible depuis l’accueil.

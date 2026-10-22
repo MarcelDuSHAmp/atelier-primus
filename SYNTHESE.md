@@ -2,6 +2,8 @@
 
 Nous disposons d’objets locaux calculables et d’un historique d’essais conséquent. Leur assemblage en une méthode globale de lecture demeure une hypothèse. La principale difficulté actuelle est de justifier, depuis les pages elles-mêmes, le passage d’un objet à un autre et le choix de l’unité lue.
 
+La [carte VM / architecture](architecture/README.md) organise l’ensemble en huit branches. Elle intègre les audits récents : modules reproductibles, NEXT et état persistant non reconstruits, choix de conversion non commandé, et absence de second secret indépendant identifié pour les candidats Tor. Les fonctions proposées restent distinguées des calculs exacts.
+
 ## Débouché candidat vers Tor
 
 La chaîne F0 → 16 SPECIAL → G032 → retrait des trois bits constants → Base32 donne notamment `2h6vn7o256dtvsfp.onion` par prélèvement et `hdnv2o26765tvsfp.onion` par dépôt. Les calculs sont exacts sous leurs conventions ; le choix de l’export et l’identité historique restent INCONCLUSIFS. [Chemin détaillé et contre-épreuves](PISTE_ONION.md).

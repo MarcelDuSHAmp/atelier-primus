@@ -5,6 +5,8 @@
 
 **Pour commencer : [Des pages aux deux candidats — le parcours illustré en dix minutes](PARCOURS_10_MIN.md).** Six étapes, trois schémas calculés, les images sources et les choix qui restent ouverts.
 
+**Pour voir l’ensemble du système proposé : [VM et architecture — l’arborescence complète](architecture/README.md).** Huit branches relient sources, F0, opérations, modules, état, sorties, contre-épreuves et crédits. La carte distingue les calculs reproduits des transitions encore hypothétiques.
+
 Nous étudions les 75 images de Liber Primus, leurs runes, leur géométrie et les gestes transmis par les pages résolues. Ce dépôt rassemble nos résultats, essais négatifs, corrections et pistes ouvertes, en distinguant les travaux antérieurs de nos reproductions et propositions.
 
 **La piste la plus récente produit deux identifiants compatibles avec l’ancien format Tor v2. Leur calcul est reproductible ; leur existence historique et leur lien avec Cicada ne sont pas authentifiés. Aucune nouvelle page LP2 déchiffrée n’est revendiquée.**
@@ -12,6 +14,7 @@ Nous étudions les 75 images de Liber Primus, leurs runes, leur géométrie et l
 | Parcours de lecture | Contenu |
 |---|---|
 | [Commencer en dix minutes](PARCOURS_10_MIN.md) | Comprendre les deux candidats pas à pas, sans prérequis en cryptographie |
+| [Arborescence VM / architecture](architecture/README.md) | Objets, types, parcours, état, sorties Tor et modèles réfutés ; huit dossiers et navigation dépliable dans l’index HTML |
 | [État de la recherche](SYNTHESE.md) | Résultats exacts, hypothèses, contradictions et limites |
 | [La piste des adresses `.onion`](PISTE_ONION.md) | Des 16 SPECIAL aux 80 bits ; prélèvement, dépôt et variantes |
 | [171 fiches / 12 familles](recherches/README.md) | Explications simples, détails techniques, tests négatifs et attributions |

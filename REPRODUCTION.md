@@ -5,9 +5,12 @@ Depuis la racine du dépôt, avec Python 3 et sa bibliothèque standard :
 ```bash
 python3 calculs/verifier_dossier.py
 python3 calculs/reproduire_onion.py
+python3 architecture/rejouer.py
 ```
 
 Le premier programme vérifie les 75 empreintes JPEG, les deux F0, leurs six différences, les 16 SPECIAL, φ(230)=88, les calculs G032, le routage précis 0/3 et les nuls locaux R4 N0–N2. Le second expose les étapes des douze exports Base32 et vérifie le retour aux octets SPECIAL. Il ne contacte pas Tor.
+
+Le troisième contrôle les relations numériques de la [carte d’architecture](architecture/README.md) sur les deux F0 : conversions inverses, payloads D33/D34, BODY36, rangs AND16, contre-exemples, exports A/B et leur inversion. Il écrit `architecture/resultats.json`. Les contrôles de transcription runique et les campagnes historiques Tor restent attribués aux rapports ; ce script ne les relance pas.
 
 | Entrées | Statut |
 |---|---|

@@ -6,4 +6,6 @@ Les textes, tableaux et scripts préparés pour cette édition sont crédités �
 
 Les trois figures `images/parcours-*.svg` sont des schémas pédagogiques produits par le projet depuis les données citées, avec un [générateur versionné](outils/generer_parcours.py). Elles ne revendiquent ni les nombres et images de Cicada, ni la recette communautaire G032, ni l’invention de Base32.
 
+La carte `images/architecture-vm.svg` organise les huit dossiers de l’[architecture](architecture/README.md). Son [générateur](outils/generer_architecture.py), le modèle de navigation et les contrôles locaux sont des ajouts éditoriaux du projet. Les contributions des solveurs, les audits antérieurs et le protocole Tor restent crédités séparément dans les [sources de la carte](architecture/SOURCES.md).
+
 Aucune licence globale nouvelle n’est attribuée à l’ensemble du corpus par cette édition. Les conditions des pièces tierces doivent être examinées séparément pour une réutilisation. Aucun changement de licence des travaux d’autrui n’est revendiqué.

@@ -1,0 +1,728 @@
+{
+  "scope": "Local arithmetic only; no new rune transcription, archive scan or autonomous LP VM.",
+  "indexing": "base 0; closed intervals in prose, half-open slices in Python",
+  "inverse_coordinate_checks": 512,
+  "totient230": 88,
+  "different_indices": [
+    2,
+    45,
+    131,
+    182,
+    192,
+    199
+  ],
+  "versions": {
+    "F0-3b9b07d9.bin": {
+      "sha256": "3b9b07d9a26e6d55c432d94d2661fdff3c2b348daed06821f2bdb23184a4b290",
+      "length": 256,
+      "special_positions_base0": [
+        6,
+        11,
+        48,
+        56,
+        65,
+        96,
+        105,
+        106,
+        144,
+        151,
+        170,
+        194,
+        206,
+        211,
+        249,
+        254
+      ],
+      "special_values": [
+        126,
+        222,
+        253,
+        254,
+        255,
+        222,
+        63,
+        31,
+        125,
+        189,
+        254,
+        159,
+        127,
+        61,
+        158,
+        189
+      ],
+      "special_low5_counts": {
+        "29": 5,
+        "30": 6,
+        "31": 5
+      },
+      "d_labels": [
+        {
+          "index": 6,
+          "byte": 126,
+          "high3": 3,
+          "low5": 30,
+          "label": "D33"
+        },
+        {
+          "index": 11,
+          "byte": 222,
+          "high3": 6,
+          "low5": 30,
+          "label": "D36"
+        },
+        {
+          "index": 48,
+          "byte": 253,
+          "high3": 7,
+          "low5": 29,
+          "label": "D36"
+        },
+        {
+          "index": 56,
+          "byte": 254,
+          "high3": 7,
+          "low5": 30,
+          "label": "D37"
+        },
+        {
+          "index": 65,
+          "byte": 255,
+          "high3": 7,
+          "low5": 31,
+          "label": "D38"
+        },
+        {
+          "index": 96,
+          "byte": 222,
+          "high3": 6,
+          "low5": 30,
+          "label": "D36"
+        },
+        {
+          "index": 105,
+          "byte": 63,
+          "high3": 1,
+          "low5": 31,
+          "label": "D32"
+        },
+        {
+          "index": 106,
+          "byte": 31,
+          "high3": 0,
+          "low5": 31,
+          "label": "D31"
+        },
+        {
+          "index": 144,
+          "byte": 125,
+          "high3": 3,
+          "low5": 29,
+          "label": "D32"
+        },
+        {
+          "index": 151,
+          "byte": 189,
+          "high3": 5,
+          "low5": 29,
+          "label": "D34"
+        },
+        {
+          "index": 170,
+          "byte": 254,
+          "high3": 7,
+          "low5": 30,
+          "label": "D37"
+        },
+        {
+          "index": 194,
+          "byte": 159,
+          "high3": 4,
+          "low5": 31,
+          "label": "D35"
+        },
+        {
+          "index": 206,
+          "byte": 127,
+          "high3": 3,
+          "low5": 31,
+          "label": "D34"
+        },
+        {
+          "index": 211,
+          "byte": 61,
+          "high3": 1,
+          "low5": 29,
+          "label": "D30"
+        },
+        {
+          "index": 249,
+          "byte": 158,
+          "high3": 4,
+          "low5": 30,
+          "label": "D34"
+        },
+        {
+          "index": 254,
+          "byte": 189,
+          "high3": 5,
+          "low5": 29,
+          "label": "D34"
+        }
+      ],
+      "intervals_between_special": [
+        4,
+        36,
+        7,
+        8,
+        30,
+        8,
+        0,
+        37,
+        6,
+        18,
+        23,
+        11,
+        4,
+        37,
+        4
+      ],
+      "D33": {
+        "interior": [
+          183,
+          92,
+          249,
+          156
+        ],
+        "transformed": [
+          192,
+          73,
+          21,
+          144
+        ],
+        "sum_mod256": 168,
+        "transformed_sum_mod256": 174,
+        "and": 16
+      },
+      "D34": {
+        "entry": 158,
+        "interior": [
+          172,
+          230,
+          180,
+          36
+        ],
+        "and": 36,
+        "hinv_entry": 211,
+        "totient230": 88,
+        "F0_totient230": 211
+      },
+      "D30_BODY36": {
+        "indices_inclusive": [
+          212,
+          247
+        ],
+        "values": [
+          70,
+          150,
+          251,
+          84,
+          142,
+          219,
+          148,
+          59,
+          58,
+          52,
+          51,
+          151,
+          68,
+          52,
+          73,
+          249,
+          144,
+          0,
+          117,
+          175,
+          106,
+          234,
+          196,
+          121,
+          238,
+          32,
+          129,
+          173,
+          144,
+          141,
+          42,
+          214,
+          22,
+          56,
+          198,
+          192
+        ],
+        "sum": 4551,
+        "sum_mod256": 199,
+        "G_outputs": [
+          47,
+          144,
+          151,
+          192,
+          54,
+          51,
+          105,
+          219,
+          175,
+          217,
+          33,
+          38,
+          197,
+          217,
+          205,
+          21,
+          169,
+          203,
+          54,
+          20,
+          193,
+          65,
+          133,
+          68,
+          184,
+          231,
+          247,
+          184,
+          169,
+          14,
+          58,
+          167,
+          235,
+          155,
+          156,
+          126
+        ],
+        "G_sum_mod256": 33,
+        "and16_slots_base1": [
+          2,
+          3,
+          5,
+          6,
+          8,
+          10,
+          14,
+          16,
+          19,
+          20,
+          25,
+          27,
+          28,
+          31,
+          34,
+          35
+        ]
+      },
+      "alternating_next_trace": [
+        105,
+        249,
+        211,
+        233
+      ],
+      "routing_counterexamples": [
+        {
+          "source": 6,
+          "operation": "HINV",
+          "target": 207,
+          "byte_at_target": 21,
+          "special_at_target": false
+        },
+        {
+          "source": 206,
+          "operation": "HINV",
+          "target": 239,
+          "byte_at_target": 173,
+          "special_at_target": false
+        },
+        {
+          "source": 106,
+          "operation": "HADDR",
+          "target": 248,
+          "byte_at_target": 113,
+          "special_at_target": false
+        }
+      ],
+      "G112": 120,
+      "G230": 80,
+      "F0_87": 65,
+      "F0_172": 148,
+      "exports": {
+        "A": {
+          "hostname": "2h6vn7o256dtvsfp",
+          "raw80": "d1fd56fddaef873ac8af",
+          "raw16": "de3ffebd7dff7edefdfe1f9fbd9e3d7f",
+          "inverse_exact": true
+        },
+        "B": {
+          "hostname": "hdnv2o26765tvsfp",
+          "raw80": "38db5d3b5effbb3ac8af",
+          "raw16": "3f1f7dbdde7edefefffefd9fbd9e3d7f",
+          "inverse_exact": true
+        }
+      }
+    },
+    "F0-0201348c.bin": {
+      "sha256": "0201348c02d11222097b68be9ad0179a44020b46fe64a9e8e8198447c7b922e9",
+      "length": 256,
+      "special_positions_base0": [
+        6,
+        11,
+        48,
+        56,
+        65,
+        96,
+        105,
+        106,
+        144,
+        151,
+        170,
+        194,
+        206,
+        211,
+        249,
+        254
+      ],
+      "special_values": [
+        126,
+        222,
+        253,
+        254,
+        255,
+        222,
+        63,
+        31,
+        125,
+        189,
+        254,
+        159,
+        127,
+        61,
+        158,
+        189
+      ],
+      "special_low5_counts": {
+        "29": 5,
+        "30": 6,
+        "31": 5
+      },
+      "d_labels": [
+        {
+          "index": 6,
+          "byte": 126,
+          "high3": 3,
+          "low5": 30,
+          "label": "D33"
+        },
+        {
+          "index": 11,
+          "byte": 222,
+          "high3": 6,
+          "low5": 30,
+          "label": "D36"
+        },
+        {
+          "index": 48,
+          "byte": 253,
+          "high3": 7,
+          "low5": 29,
+          "label": "D36"
+        },
+        {
+          "index": 56,
+          "byte": 254,
+          "high3": 7,
+          "low5": 30,
+          "label": "D37"
+        },
+        {
+          "index": 65,
+          "byte": 255,
+          "high3": 7,
+          "low5": 31,
+          "label": "D38"
+        },
+        {
+          "index": 96,
+          "byte": 222,
+          "high3": 6,
+          "low5": 30,
+          "label": "D36"
+        },
+        {
+          "index": 105,
+          "byte": 63,
+          "high3": 1,
+          "low5": 31,
+          "label": "D32"
+        },
+        {
+          "index": 106,
+          "byte": 31,
+          "high3": 0,
+          "low5": 31,
+          "label": "D31"
+        },
+        {
+          "index": 144,
+          "byte": 125,
+          "high3": 3,
+          "low5": 29,
+          "label": "D32"
+        },
+        {
+          "index": 151,
+          "byte": 189,
+          "high3": 5,
+          "low5": 29,
+          "label": "D34"
+        },
+        {
+          "index": 170,
+          "byte": 254,
+          "high3": 7,
+          "low5": 30,
+          "label": "D37"
+        },
+        {
+          "index": 194,
+          "byte": 159,
+          "high3": 4,
+          "low5": 31,
+          "label": "D35"
+        },
+        {
+          "index": 206,
+          "byte": 127,
+          "high3": 3,
+          "low5": 31,
+          "label": "D34"
+        },
+        {
+          "index": 211,
+          "byte": 61,
+          "high3": 1,
+          "low5": 29,
+          "label": "D30"
+        },
+        {
+          "index": 249,
+          "byte": 158,
+          "high3": 4,
+          "low5": 30,
+          "label": "D34"
+        },
+        {
+          "index": 254,
+          "byte": 189,
+          "high3": 5,
+          "low5": 29,
+          "label": "D34"
+        }
+      ],
+      "intervals_between_special": [
+        4,
+        36,
+        7,
+        8,
+        30,
+        8,
+        0,
+        37,
+        6,
+        18,
+        23,
+        11,
+        4,
+        37,
+        4
+      ],
+      "D33": {
+        "interior": [
+          183,
+          92,
+          249,
+          156
+        ],
+        "transformed": [
+          192,
+          73,
+          21,
+          144
+        ],
+        "sum_mod256": 168,
+        "transformed_sum_mod256": 174,
+        "and": 16
+      },
+      "D34": {
+        "entry": 158,
+        "interior": [
+          172,
+          230,
+          180,
+          36
+        ],
+        "and": 36,
+        "hinv_entry": 211,
+        "totient230": 88,
+        "F0_totient230": 211
+      },
+      "D30_BODY36": {
+        "indices_inclusive": [
+          212,
+          247
+        ],
+        "values": [
+          70,
+          150,
+          251,
+          84,
+          142,
+          219,
+          148,
+          59,
+          58,
+          52,
+          51,
+          151,
+          68,
+          52,
+          73,
+          249,
+          144,
+          0,
+          117,
+          175,
+          106,
+          234,
+          196,
+          121,
+          238,
+          32,
+          129,
+          173,
+          144,
+          141,
+          42,
+          214,
+          22,
+          56,
+          198,
+          192
+        ],
+        "sum": 4551,
+        "sum_mod256": 199,
+        "G_outputs": [
+          47,
+          144,
+          151,
+          192,
+          54,
+          51,
+          105,
+          219,
+          175,
+          217,
+          33,
+          38,
+          197,
+          217,
+          205,
+          21,
+          169,
+          203,
+          54,
+          20,
+          193,
+          65,
+          133,
+          68,
+          184,
+          231,
+          247,
+          184,
+          169,
+          14,
+          58,
+          138,
+          235,
+          155,
+          156,
+          126
+        ],
+        "G_sum_mod256": 4,
+        "and16_slots_base1": [
+          2,
+          3,
+          5,
+          6,
+          8,
+          10,
+          14,
+          16,
+          19,
+          20,
+          25,
+          27,
+          28,
+          31,
+          34,
+          35
+        ]
+      },
+      "alternating_next_trace": [
+        105,
+        249,
+        211,
+        233
+      ],
+      "routing_counterexamples": [
+        {
+          "source": 6,
+          "operation": "HINV",
+          "target": 207,
+          "byte_at_target": 21,
+          "special_at_target": false
+        },
+        {
+          "source": 206,
+          "operation": "HINV",
+          "target": 239,
+          "byte_at_target": 173,
+          "special_at_target": false
+        },
+        {
+          "source": 106,
+          "operation": "HADDR",
+          "target": 248,
+          "byte_at_target": 113,
+          "special_at_target": false
+        }
+      ],
+      "G112": 144,
+      "G230": 80,
+      "F0_87": 65,
+      "F0_172": 148,
+      "exports": {
+        "A": {
+          "hostname": "2h6vn7o256dtvsfp",
+          "raw80": "d1fd56fddaef873ac8af",
+          "raw16": "de3ffebd7dff7edefdfe1f9fbd9e3d7f",
+          "inverse_exact": true
+        },
+        "B": {
+          "hostname": "hdnv2o26765tvsfp",
+          "raw80": "38db5d3b5effbb3ac8af",
+          "raw16": "3f1f7dbdde7edefefffefd9fbd9e3d7f",
+          "inverse_exact": true
+        }
+      }
+    }
+  }
+}

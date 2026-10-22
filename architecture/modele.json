@@ -1,0 +1,259 @@
+{
+  "title": "VM et architecture — carte du travail documenté",
+  "date": "2026-10-22",
+  "scope": "Arborescence documentaire ; les branches ne sont pas des transitions de programme.",
+  "chapters": [
+    {
+      "id": "architecture-01",
+      "number": "01",
+      "title": "Sources et grammaire",
+      "path": "architecture/01-sources-et-grammaire.md",
+      "summary": [
+        "75 JPEG · LP1 et LP2",
+        "G005 · G032 · leçons résolues",
+        "Dessins · rouge · M6 / PRE64"
+      ],
+      "sections": [
+        {
+          "title": "Source, transcription, reconstruction",
+          "anchor": "source-transcription-reconstruction"
+        },
+        {
+          "title": "Les leçons et leurs transferts possibles",
+          "anchor": "les-leçons-et-leurs-transferts-possibles"
+        },
+        {
+          "title": "Dessins, frontières et représentation",
+          "anchor": "dessins-frontières-et-représentation"
+        },
+        {
+          "title": "M6, PRE64 et M7",
+          "anchor": "m6-pre64-et-m7"
+        }
+      ]
+    },
+    {
+      "id": "architecture-02",
+      "number": "02",
+      "title": "Mémoire et objets",
+      "path": "architecture/02-memoire-et-objets.md",
+      "summary": [
+        "F0 : 256 octets · deux versions",
+        "high3 / low5 · 16 SPECIAL",
+        "D30 · D32 · D33 · D34 · D36 · D37"
+      ],
+      "sections": [
+        {
+          "title": "La table de 256 octets",
+          "anchor": "la-table-de-256-octets"
+        },
+        {
+          "title": "Les familles D ne sont pas des numéros d’opcode",
+          "anchor": "les-familles-d-ne-sont-pas-des-numéros-dopcode"
+        },
+        {
+          "title": "Trois calculs locaux qui se composent",
+          "anchor": "trois-calculs-locaux-qui-se-composent"
+        },
+        {
+          "title": "Intervalles et tailles",
+          "anchor": "intervalles-et-tailles"
+        }
+      ]
+    },
+    {
+      "id": "architecture-03",
+      "number": "03",
+      "title": "Opérations et types",
+      "path": "architecture/03-operations-et-types.md",
+      "summary": [
+        "HADDR / HINV · lookup G",
+        "AND · totient · GP · G032",
+        "Type, portée et geste à expliciter"
+      ],
+      "sections": [
+        {
+          "title": "La bibliothèque minimale",
+          "anchor": "la-bibliothèque-minimale"
+        },
+        {
+          "title": "Le verrou de conversion, sur un exemple",
+          "anchor": "le-verrou-de-conversion-sur-un-exemple"
+        },
+        {
+          "title": "G032 : ordre, disposition et lecture",
+          "anchor": "g032--ordre-disposition-et-lecture"
+        },
+        {
+          "title": "Deux notions de groupe",
+          "anchor": "deux-notions-de-groupe"
+        }
+      ]
+    },
+    {
+      "id": "architecture-04",
+      "number": "04",
+      "title": "Modules et parcours",
+      "path": "architecture/04-modules-et-parcours.md",
+      "summary": [
+        "G068 · R4 · BODY36 / BODY35",
+        "AND16 → 132 · BLOCK64 → 80",
+        "SEEK / SHIFT · rappels · STANDING"
+      ],
+      "sections": [
+        {
+          "title": "Vue des modules",
+          "anchor": "vue-des-modules"
+        },
+        {
+          "title": "La branche R4",
+          "anchor": "la-branche-r4"
+        },
+        {
+          "title": "READ / SELECT / REDUCE dans G071",
+          "anchor": "read--select--reduce-dans-g071"
+        },
+        {
+          "title": "BLOCK64 et les autres chemins vers 80",
+          "anchor": "block64-et-les-autres-chemins-vers-80"
+        },
+        {
+          "title": "Le cycle de contrôle proposé le 21 octobre",
+          "anchor": "le-cycle-de-contrôle-proposé-le-21-octobre"
+        }
+      ]
+    },
+    {
+      "id": "architecture-05",
+      "number": "05",
+      "title": "Exécution et état",
+      "path": "architecture/05-execution-et-verrous.md",
+      "summary": [
+        "BOOT · PC · NEXT non reconstruits",
+        "CALL / RETURN · HALT hypothétiques",
+        "État persistant · APPLY / EMIT ouverts"
+      ],
+      "sections": [
+        {
+          "title": "Ce que nous pouvons exécuter aujourd’hui",
+          "anchor": "ce-que-nous-pouvons-exécuter-aujourdhui"
+        },
+        {
+          "title": "Le témoin sans état",
+          "anchor": "le-témoin-sans-état"
+        },
+        {
+          "title": "NEXT et CALL/RETURN : les essais conservés",
+          "anchor": "next-et-callreturn--les-essais-conservés"
+        },
+        {
+          "title": "Pseudocode fidèle au niveau de preuve",
+          "anchor": "pseudocode-fidèle-au-niveau-de-preuve"
+        },
+        {
+          "title": "Deux verrous productifs",
+          "anchor": "deux-verrous-productifs"
+        }
+      ]
+    },
+    {
+      "id": "architecture-06",
+      "number": "06",
+      "title": "Sorties et autorisation",
+      "path": "architecture/06-sorties-et-autorisation.md",
+      "summary": [
+        "Deux candidats A/B · branche X16",
+        "80 / 128 / 160 / 512 bits",
+        "Identité, secret et lien Cicada inconnus"
+      ],
+      "sections": [
+        {
+          "title": "Les branches de sortie",
+          "anchor": "les-branches-de-sortie"
+        },
+        {
+          "title": "Ne pas confondre quatre tailles",
+          "anchor": "ne-pas-confondre-quatre-tailles"
+        },
+        {
+          "title": "SPECIAL brut n’ajoute pas un second secret indépendant",
+          "anchor": "special-brut-najoute-pas-un-second-secret-indépendant"
+        },
+        {
+          "title": "Le protocole Tor historique et l’hypothèse LP",
+          "anchor": "le-protocole-tor-historique-et-lhypothèse-lp"
+        },
+        {
+          "title": "Audits d’autorisation et recherche historique",
+          "anchor": "audits-dautorisation-et-recherche-historique"
+        },
+        {
+          "title": "Preuve extérieure recherchée",
+          "anchor": "preuve-extérieure-recherchée"
+        }
+      ]
+    },
+    {
+      "id": "architecture-07",
+      "number": "07",
+      "title": "Contre-épreuves",
+      "path": "architecture/07-refutations-et-tests.md",
+      "summary": [
+        "Routage 0/3 · alternateur · unités",
+        "Versions F0 · erreurs corrigées",
+        "ÉTAU · lag-5 · codecs · suites utiles"
+      ],
+      "sections": [
+        {
+          "title": "Registre des modèles qui ne passent pas",
+          "anchor": "registre-des-modèles-qui-ne-passent-pas"
+        },
+        {
+          "title": "Impasses connexes conservées dans les familles",
+          "anchor": "impasses-connexes-conservées-dans-les-familles"
+        },
+        {
+          "title": "Ce que les nombres de tests ne disent pas",
+          "anchor": "ce-que-les-nombres-de-tests-ne-disent-pas"
+        },
+        {
+          "title": "Deux expériences proposées",
+          "anchor": "deux-expériences-proposées"
+        }
+      ]
+    },
+    {
+      "id": "architecture-08",
+      "number": "08",
+      "title": "Sources et crédits",
+      "path": "architecture/SOURCES.md",
+      "summary": [
+        "Cinq audits récents · pièces publiques",
+        "Calculs rejoués et résultats rapportés",
+        "Communauté · Tor Project · projet"
+      ],
+      "sections": [
+        {
+          "title": "Cinq audits récents",
+          "anchor": "cinq-audits-récents"
+        },
+        {
+          "title": "Empreintes des sources consultées",
+          "anchor": "empreintes-des-sources-consultées"
+        },
+        {
+          "title": "Pièces publiques et ordre des corrections",
+          "anchor": "pièces-publiques-et-ordre-des-corrections"
+        },
+        {
+          "title": "Ce qui est rejoué dans cet ajout",
+          "anchor": "ce-qui-est-rejoué-dans-cet-ajout"
+        },
+        {
+          "title": "Qui doit être crédité ?",
+          "anchor": "qui-doit-être-crédité-"
+        }
+      ]
+    }
+  ]
+}

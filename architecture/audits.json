@@ -1,0 +1,57 @@
+[
+  {
+    "id": "A01",
+    "filename": "LP_VM_AUDIT_20261022.html",
+    "title": "Audit de la VM candidate",
+    "date_reported": "2026-10-22",
+    "sha256": "1ef9e287d8dddfadabdb37bcbd68496d16c01129f95f772de6b4b9da74e4d9d1",
+    "size_bytes": 1880632,
+    "verdict_summary": "VM PLAUSIBLE ; NEXT, état persistant et retour non reconstruits.",
+    "attribution": "Rapport du projet et de ses agents ; auteurs antérieurs conservés dans le rapport ; priorité non établie.",
+    "availability": "Source complète conservée dans les archives de travail ; synthèse publique dans architecture/."
+  },
+  {
+    "id": "A02",
+    "filename": "LP_TYPE_ROUTING_20261022.html",
+    "title": "Grammaire matérielle de routage",
+    "date_reported": "2026-10-22",
+    "sha256": "bcadf04500648a7bfbf000e6543c80bd8a76c5e177e4acf5fd6264d162d1cae6",
+    "size_bytes": 2549888,
+    "verdict_summary": "Règle de voisinage A/B et contrat de cible falsifiés :0/3.",
+    "attribution": "Rapport du projet et de ses agents ; auteurs antérieurs conservés dans le rapport ; priorité non établie.",
+    "availability": "Source complète conservée dans les archives de travail ; synthèse publique dans architecture/."
+  },
+  {
+    "id": "A03",
+    "filename": "ASTRA_AUTH_LOCK_AUDIT.html",
+    "title": "Audit AUTH LOCK",
+    "date_reported": "2026-10-22",
+    "sha256": "a3419f07b2649e65a350185f3635c5c1ca209ee34c04a94e0c6591c8f9956320",
+    "size_bytes": 30156,
+    "verdict_summary": "Compatibilité de format ; aucun rôle AUTH ni clé client identifié dans le périmètre.",
+    "attribution": "Rapport du projet et de ses agents ; auteurs antérieurs conservés dans le rapport ; priorité non établie.",
+    "availability": "Source complète conservée dans les archives de travail ; synthèse publique dans architecture/."
+  },
+  {
+    "id": "A04",
+    "filename": "ASTRA_AUTH_ARCHITECTURE.html",
+    "title": "Architecture d’autorisation",
+    "date_reported": "2026-10-22",
+    "sha256": "16fa75b9e2542610f0d9e6a2a16ab1e59eecd29171d8c32a7dbadf6dc3aacbab",
+    "size_bytes": 2611339,
+    "verdict_summary": "FORMAT MATCH ONLY ;319 témoins et638 encodages dans cette passe.",
+    "attribution": "Rapport du projet et de ses agents ; auteurs antérieurs conservés dans le rapport ; priorité non établie.",
+    "availability": "Source complète conservée dans les archives de travail ; synthèse publique dans architecture/."
+  },
+  {
+    "id": "A05",
+    "filename": "RAPPORT_AUTH_SECRET_EXECUTION.html",
+    "title": "Exécution de la mission AUTH SECRET",
+    "date_reported": "2026-10-22",
+    "sha256": "256caaab94f75f61fa9b023c7ddf6ab6faff00c2566fbc32922ff0ca85c28ab9",
+    "size_bytes": 446248,
+    "verdict_summary": "FORMAT MATCH ONLY ;309 témoins,618 encodages ;rejeu des13040 IDs antérieurs.",
+    "attribution": "Rapport du projet et de ses agents ; auteurs antérieurs conservés dans le rapport ; priorité non établie.",
+    "availability": "Source complète conservée dans les archives de travail ; synthèse publique dans architecture/."
+  }
+]

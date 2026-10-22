@@ -1,9 +1,11 @@
 """Lecteur hors ligne, génération depuis les documents du dépôt. Bibliothèque standard."""
 from pathlib import Path
 import html,json,os,re
+from generer_graphe_fonctionnel import load as load_functional, hub_html, HUB_JS
 ROOT=Path(__file__).resolve().parent.parent
 E=html.escape
 architecture=json.loads((ROOT/'architecture/modele.json').read_text())
+functional=load_functional()
 architecture_links={c['path']:c['id'] for c in architecture['chapters']}
 def md(text,prefix='',standalone=False,render_images=False):
  def inline(s):
@@ -22,6 +24,7 @@ def md(text,prefix='',standalone=False,render_images=False):
    if raw=='PARCOURS_10_MIN.md':return '<a href="#parcours" data-view="parcours">'+title+'</a>'
    normalized=os.path.normpath(prefix+raw)
    if normalized=='architecture/README.md':return '<a href="#architecture" data-view="architecture">'+title+'</a>'
+   if normalized=='architecture/FONCTIONNELLE.md':return '<a href="#functional-hub" data-view="architecture">'+title+'</a>'
    if normalized in architecture_links:
     chapter=architecture_links[normalized]
     return '<a href="#'+chapter+'" data-view="architecture" data-arch-open="'+chapter+'">'+title+'</a>'
@@ -73,6 +76,7 @@ for i,(sid,title,path) in enumerate(sections):
  out.append('<section id="'+sid+'"'+(' hidden' if i else '')+'>')
  if path:out.append(md((ROOT/path).read_text(),prefix=str(Path(path).parent)+'/' if '/' in path else '',render_images=sid in ('parcours','architecture')))
  if sid=='architecture':
+  out.append(hub_html(functional))
   out.append('<h2>Déplier les dossiers</h2><p>Les huit branches ci-dessous contiennent les dossiers complets. Les tables distinguent les calculs, les fonctions proposées et les contre-épreuves.</p><div class="arch-controls"><button id="arch-expand">Tout déplier</button><button id="arch-collapse">Tout replier</button></div>')
   for chapter in architecture['chapters']:
    out.append('<details class="arch-item" id="'+chapter['id']+'"><summary><span class="id">'+chapter['number']+'</span>'+E(chapter['title'])+'<span class="desc">'+E(' · '.join(chapter['summary']))+'</span></summary><div class="arch-body">'+md((ROOT/chapter['path']).read_text(),prefix='architecture/',render_images=True)+'</div></details>')
@@ -90,6 +94,7 @@ for i,(sid,title,path) in enumerate(sections):
  out.append('</section>')
 out.append('<footer>MarcelDuSHAmp est un pseudonyme. Les recettes et matériaux antérieurs restent crédités à leurs sources. <a href="CITER.md">Citer cette édition</a>.</footer></main><script>document.querySelectorAll("[data-view]").forEach(b=>b.onclick=()=>{document.querySelectorAll("main>section").forEach(s=>s.hidden=s.id!==b.dataset.view);document.querySelectorAll("[data-view]").forEach(x=>x.classList.toggle("active",x===b));});const q=document.querySelector("#search"),f=document.querySelector("#family"),cards=[...document.querySelectorAll(".card")];function filter(){let n=0;cards.forEach(c=>{let ok=(!f.value||c.dataset.family===f.value)&&(!q.value||c.dataset.search.includes(q.value.toLocaleLowerCase()));c.hidden=!ok;if(ok)n++});document.querySelector("#count").textContent=n+" fiches affichées sur 171";}q.oninput=f.onchange=filter;filter();</script></body></html>')
 page=''.join(out)
+page=page.replace('</script>',HUB_JS+'</script>')
 page=page.replace('x.classList.toggle("active",x===b));','x.classList.toggle("active",x.dataset.view===b.dataset.view));if(b.dataset.archOpen){const d=document.getElementById(b.dataset.archOpen);d.open=true;d.scrollIntoView({block:"start"});}')
 page=page.replace('</script>','document.getElementById("arch-expand").onclick=()=>document.querySelectorAll(".arch-item").forEach(d=>d.open=true);document.getElementById("arch-collapse").onclick=()=>document.querySelectorAll(".arch-item").forEach(d=>d.open=false);const initial=document.querySelector("a[href=\\""+location.hash+"\\"][data-view]");if(initial)initial.click();</script>')
 (ROOT/'INDEX.html').write_text(page)

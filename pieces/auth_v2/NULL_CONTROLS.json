@@ -1,0 +1,62 @@
+[
+  {
+    "id": "zero16",
+    "hex": "00000000000000000000000000000000",
+    "encodings": {
+      "1": "AAAAAAAAAAAAAAAAAAAAAA",
+      "2": "AAAAAAAAAAAAAAAAAAAAAB"
+    },
+    "accepted": true,
+    "archive_search": false
+  },
+  {
+    "id": "ff16",
+    "hex": "ffffffffffffffffffffffffffffffff",
+    "encodings": {
+      "1": "/////////////////////w",
+      "2": "/////////////////////x"
+    },
+    "accepted": true,
+    "archive_search": false
+  },
+  {
+    "id": "ascending16",
+    "hex": "000102030405060708090a0b0c0d0e0f",
+    "encodings": {
+      "1": "AAECAwQFBgcICQoLDA0ODw",
+      "2": "AAECAwQFBgcICQoLDA0ODx"
+    },
+    "accepted": true,
+    "archive_search": false
+  },
+  {
+    "id": "repeat_1d",
+    "hex": "1d1d1d1d1d1d1d1d1d1d1d1d1d1d1d1d",
+    "encodings": {
+      "1": "HR0dHR0dHR0dHR0dHR0dHQ",
+      "2": "HR0dHR0dHR0dHR0dHR0dHR"
+    },
+    "accepted": true,
+    "archive_search": false
+  },
+  {
+    "id": "same_special_multiset_control",
+    "hex": "defdfeffde3f1f7dbdfe9f7f3d9ebd7e",
+    "encodings": {
+      "1": "3v3+/94/H329/p9/PZ69fg",
+      "2": "3v3+/94/H329/p9/PZ69fh"
+    },
+    "accepted": true,
+    "archive_search": false
+  },
+  {
+    "id": "same_X16_multiset_control",
+    "hex": "09263b6b02dbb9910846e8bc6516f803",
+    "encodings": {
+      "1": "CSY7awLbuZEIRui8ZRb4Aw",
+      "2": "CSY7awLbuZEIRui8ZRb4Ax"
+    },
+    "accepted": true,
+    "archive_search": false
+  }
+]

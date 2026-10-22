@@ -1,0 +1,51 @@
+{
+  "created_utc": "2026-10-22T16:02:27.981657+00:00",
+  "cutoff": "2026-10-20",
+  "candidates": {
+    "X16": "0309263b6b02dbb9910846e8bc6516f8",
+    "S0": "7edefdfeffde3f1f7dbdfe9f7f3d9ebd",
+    "S1": "de3ffebd7dff7edefdfe1f9fbd9e3d7f",
+    "S2": "3f1f7dbdde7edefefffefd9fbd9e3d7f"
+  },
+  "order_1_based": [
+    6,
+    7,
+    11,
+    10,
+    9,
+    5,
+    1,
+    2,
+    3,
+    4,
+    8,
+    12,
+    16,
+    15,
+    14,
+    13
+  ],
+  "inverse_indices_1_based": [
+    7,
+    8,
+    9,
+    10,
+    6,
+    1,
+    2,
+    11,
+    5,
+    4,
+    3,
+    12,
+    16,
+    15,
+    14,
+    13
+  ],
+  "scope": "Only four explicitly requested existing objects. No new rotations, hashes, truncations, padding or permutation candidates. Conditional format tests do not assert independent secret role.",
+  "hosts": {
+    "A": "2h6vn7o256dtvsfp",
+    "B": "hdnv2o26765tvsfp"
+  }
+}

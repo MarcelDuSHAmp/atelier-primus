@@ -1,0 +1,8 @@
+{
+  "reason": "replace provisional project-year windows with actual recovered evidence; remove observation IDs from code-only Owen archive",
+  "initial_unique_ids": 16208,
+  "final_unique_ids": 13040,
+  "final_memberships": 22400,
+  "final_cicada_ids": 4032,
+  "method": "strict subset of previous zero search; no new candidate or pattern"
+}

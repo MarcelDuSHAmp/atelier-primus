@@ -1,0 +1,98 @@
+{
+  "sums": [
+    246,
+    110,
+    356,
+    258,
+    128,
+    448,
+    66,
+    401,
+    218,
+    206,
+    393,
+    58,
+    62,
+    133,
+    89,
+    303
+  ],
+  "groups": [
+    "ᚾᚣᛖᛉ",
+    "ᚾᚢᛉᛁ",
+    "ᛝᛏᛈᚹᛋᚣ",
+    "ᛏᛠᛈᛉ",
+    "ᚪᛁ",
+    "ᛄᛋᚱᚪᛏᛋᛝᛏ",
+    "ᚳᚷᚳᚻ",
+    "ᛖᛟᚱᚪᛡᚻᚳ",
+    "ᛝᛒᛖᚱ",
+    "ᛠᚪ",
+    "ᛚᛟᛖᛚᚪ",
+    "ᚦᛋ",
+    "ᚳᚹᚱᚹ",
+    "ᚩᚻᚣ",
+    "ᚢᛝᚩ",
+    "ᛈᛚᛁᛏᚪ"
+  ],
+  "completed_lines": 3,
+  "source_sha256": "5e0003aa7f7dde3b238d17c5f964790dbf6bf9db5edacc4a5ec0bad81c6f4bce",
+  "F0_authorities_same_specials": true,
+  "physical_positions": [
+    6,
+    11,
+    48,
+    56,
+    65,
+    96,
+    105,
+    106,
+    144,
+    151,
+    170,
+    194,
+    206,
+    211,
+    249,
+    254
+  ],
+  "native128": "7edefdfeffde3f1f7dbdfe9f7f3d9ebd",
+  "mod256": "f66e640280c04291dace893a3e85592f",
+  "ordered": "c04289ceda80f66e6402913a2f59853e",
+  "X16": "0309263b6b02dbb9910846e8bc6516f8",
+  "compressed_specials": {
+    "S0": "o25672hdnv6tpfsv",
+    "S1": "2h6vn7o256dtvsfp",
+    "S2": "hdnv2o26765tvsfp"
+  },
+  "reconstruction_from_compressed_host": "PASS 3/3",
+  "fixed_bit_positions": [
+    2,
+    3,
+    4
+  ],
+  "fixed48_probability_uniform_cookie": 3.552713678800501e-15,
+  "full_special_structure_probability_uniform_cookie": 3.560741304517928e-17,
+  "structure_capacity_bits": 73.3594000115385,
+  "empirical_high3_counts": {
+    "0": 1,
+    "1": 2,
+    "2": 0,
+    "3": 3,
+    "4": 2,
+    "5": 2,
+    "6": 2,
+    "7": 4
+  },
+  "low5_counts": {
+    "29": 5,
+    "30": 6,
+    "31": 5
+  },
+  "X16_discarded48": "009635817ac7",
+  "X16_consumed_by_prior": [
+    "LOW5/Base32 branch",
+    "G cellwise supplemental probe (no authenticated result)",
+    "bounded prior hash probes (no match)"
+  ]
+}

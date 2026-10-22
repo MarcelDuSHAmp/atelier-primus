@@ -1,0 +1,1345 @@
+{
+  "datasets_completed": 61,
+  "exact_hits": 0,
+  "container_errors": 0,
+  "forum_files": 208247,
+  "forum_uncompressed_bytes": 11438058875,
+  "WARC_records": 51,
+  "distinct_descriptor_ids": 13040,
+  "ids_each_host": 6520,
+  "ids_each_host_cookie": 1630,
+  "patterns": [
+    "cookie raw16/hex32/contact22, ASCII UTF16LE UTF16BE",
+    "descriptor raw20/hex40/Base32, text case-insensitive; UTF16 runs",
+    "filenames and archive metadata"
+  ],
+  "old_hostname_searches": "Not repeated; prior A/B zeros reused only for pair/path logical exclusions",
+  "dataset_records": [
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0002.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-22",
+            "2014-11-25"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0002.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/CICADA_3301_2014_PUZZLE_FACTS_PART_3",
+        "timestamp": "20141123220037"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 464724,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.618715+00:00",
+      "finished_utc": "2026-10-22T16:05:04.639907+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0009.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-08-01",
+            "2014-08-04"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0009.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/FAQ",
+        "timestamp": "20140802083251"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 75585,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.484580+00:00",
+      "finished_utc": "2026-10-22T16:05:04.490663+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0005.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-05",
+            "2015-03-08"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0005.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/MAIN_MENU_OF_PAGES_FOR_CICADA_2014",
+        "timestamp": "20150306155733"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 99701,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.832015+00:00",
+      "finished_utc": "2026-10-22T16:05:04.840113+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0001.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-01",
+            "2015-03-04"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0001.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Cicada_2014_-_Part_1",
+        "timestamp": "20150302111021"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 84035,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.759591+00:00",
+      "finished_utc": "2026-10-22T16:05:04.766333+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0008.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-03",
+            "2015-03-06"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0008.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Uncovering_Cicada_Wiki",
+        "timestamp": "20150304082953"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 131326,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.864614+00:00",
+      "finished_utc": "2026-10-22T16:05:04.874663+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0012.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-21",
+            "2014-11-24"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0012.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2012)",
+        "timestamp": "20141122082630"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 107622,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.707703+00:00",
+      "finished_utc": "2026-10-22T16:05:04.713988+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0011.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-23",
+            "2014-11-26"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0011.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Uncovering_Cicada_Wiki",
+        "timestamp": "20141124144423"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 156322,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.697553+00:00",
+      "finished_utc": "2026-10-22T16:05:04.705478+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0015.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-22",
+            "2014-07-25"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0015.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Uncovering_Cicada_Wiki",
+        "timestamp": "20140723033317"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 138564,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.542929+00:00",
+      "finished_utc": "2026-10-22T16:05:04.553193+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0020.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-27",
+            "2014-07-30"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0020.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2012)",
+        "timestamp": "20140728041154"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 99731,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.583668+00:00",
+      "finished_utc": "2026-10-22T16:05:04.588378+00:00"
+    },
+    {
+      "dataset": "forum:agora-forums-2014093020141016-rasmusandersen.tar.xz",
+      "windows": {
+        "windows": [
+          [
+            "2014-09-29",
+            "2014-10-19"
+          ]
+        ],
+        "basis": "archive filename crawl date interval + guard"
+      },
+      "selected_ids": 336,
+      "records": 43384,
+      "bytes": 3741221752,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:10:51.065315+00:00",
+      "archive_sha256": "f6afe2df9238ce5cecea6dac70fd7c4b67a444824eccf07667ca46b15a167734",
+      "finished_utc": "2026-10-22T16:13:29.944987+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0008.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-23",
+            "2014-07-26"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0008.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/FAQ",
+        "timestamp": "20140724042626"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 74957,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.476185+00:00",
+      "finished_utc": "2026-10-22T16:05:04.482273+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0018.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-30",
+            "2014-08-02"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0018.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Uncovering_Cicada_Wiki",
+        "timestamp": "20140731153041"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 140139,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.569918+00:00",
+      "finished_utc": "2026-10-22T16:05:04.576169+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0016.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-25",
+            "2014-07-28"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0016.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Uncovering_Cicada_Wiki",
+        "timestamp": "20140726150909"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 138575,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.554663+00:00",
+      "finished_utc": "2026-10-22T16:05:04.561020+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0000.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-25",
+            "2014-11-28"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0000.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/2014_CICADA_3301_DATA_DUMP",
+        "timestamp": "20141126000137"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 168583,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.603964+00:00",
+      "finished_utc": "2026-10-22T16:05:04.611922+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0006.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-22",
+            "2014-11-25"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0006.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Puzzles_we_found_in_2014_and_doesnt_look_legit",
+        "timestamp": "20141123031234"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 131558,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.658441+00:00",
+      "finished_utc": "2026-10-22T16:05:04.665121+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0007.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-03",
+            "2015-03-06"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0007.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/The_Infamous_Warning",
+        "timestamp": "20150304065742"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 87024,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.855293+00:00",
+      "finished_utc": "2026-10-22T16:05:04.862299+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0003.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-27",
+            "2014-07-30"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0003.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Cicada_2014_-_Part_1",
+        "timestamp": "20140728162514"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 74230,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.368031+00:00",
+      "finished_utc": "2026-10-22T16:05:04.374008+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0004.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-01",
+            "2015-03-04"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0004.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/FAQ",
+        "timestamp": "20150302145830"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 83911,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.822615+00:00",
+      "finished_utc": "2026-10-22T16:05:04.829622+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0010.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-04",
+            "2015-03-07"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0010.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2012)",
+        "timestamp": "20150305040203"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 112877,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.889273+00:00",
+      "finished_utc": "2026-10-22T16:05:04.898252+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0022.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-29",
+            "2014-08-01"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0022.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2013)",
+        "timestamp": "20140730231543"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 120137,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.596737+00:00",
+      "finished_utc": "2026-10-22T16:05:04.602462+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0006.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-02-27",
+            "2015-03-02"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0006.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Puzzles_we_found_in_2014_and_doesnt_look_legit",
+        "timestamp": "20150228191404"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 136156,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.842352+00:00",
+      "finished_utc": "2026-10-22T16:05:04.852929+00:00"
+    },
+    {
+      "dataset": "forum:abraxas-forums.tar.xz",
+      "windows": {
+        "windows": [
+          [
+            "2014-12-15",
+            "2015-07-08"
+          ]
+        ],
+        "basis": "dated crawl-directory sample 2014-12-16 to latest archive mtime 2015-07-05 + guard; old asset mtimes are not crawl dates"
+      },
+      "selected_ids": 3296,
+      "records": 108141,
+      "bytes": 7042452211,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:38.618167+00:00",
+      "archive_sha256": "6e082846f83dc9e06950fc29095491d303f5b336d65bbe6760db2c03d969cf02",
+      "finished_utc": "2026-10-22T16:10:51.058154+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0001.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-31",
+            "2014-08-03"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0001.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/2014_CICADA_3301_DATA_DUMP",
+        "timestamp": "20140801222720"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 159221,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.345068+00:00",
+      "finished_utc": "2026-10-22T16:05:04.357396+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0009.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-28",
+            "2014-12-01"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0009.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/The_Infamous_Warning",
+        "timestamp": "20141129092904"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 83041,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.682473+00:00",
+      "finished_utc": "2026-10-22T16:05:04.686880+00:00"
+    },
+    {
+      "dataset": "git:cicada",
+      "windows": {
+        "windows": [
+          [
+            "2014-01-09",
+            "2014-09-17"
+          ]
+        ],
+        "basis": "79 acquired commits 2014-01-10 through 2014-09-15 + one-day guard; Git dates not independent archive certification"
+      },
+      "selected_ids": 4032,
+      "records": 503,
+      "bytes": 169866415,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:10.058665+00:00",
+      "git_objects": 503,
+      "finished_utc": "2026-10-22T16:05:26.828878+00:00",
+      "provisional_superset_ids_scanned": 11696,
+      "scope_refinement": "Only a strict subset of already-scanned zero patterns is retained; no rescan needed."
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0000.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-02-27",
+            "2015-03-02"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0000.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/2014_CICADA_3301_DATA_DUMP",
+        "timestamp": "20150228204522"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 172698,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.743220+00:00",
+      "finished_utc": "2026-10-22T16:05:04.756870+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0014.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-27",
+            "2014-07-30"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0014.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/The_Infamous_Warning",
+        "timestamp": "20140728182614"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 77625,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.534153+00:00",
+      "finished_utc": "2026-10-22T16:05:04.540578+00:00"
+    },
+    {
+      "dataset": "forum:andromeda-forums.tar.xz",
+      "windows": {
+        "windows": [
+          [
+            "2014-01-20",
+            "2014-11-20"
+          ]
+        ],
+        "basis": "tar member mtimes + guard; filesystem metadata is not authenticated HTTP capture time"
+      },
+      "selected_ids": 4880,
+      "records": 32464,
+      "bytes": 581980203,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:04:58.090342+00:00",
+      "archive_sha256": "8da899bae2e51384afa8d4f839a45371a1b1c5b22a52685f698aced1dba5adbd",
+      "finished_utc": "2026-10-22T16:05:33.434862+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0007.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-29",
+            "2014-08-01"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0007.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/CICADA_3301_2014_PUZZLE_FACTS_PART_3",
+        "timestamp": "20140730171035"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 445901,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.440085+00:00",
+      "finished_utc": "2026-10-22T16:05:04.473613+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0013.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-27",
+            "2014-11-30"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0013.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2012)",
+        "timestamp": "20141128011136"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 107865,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.715875+00:00",
+      "finished_utc": "2026-10-22T16:05:04.721162+00:00"
+    },
+    {
+      "dataset": "ia_parent_cdx",
+      "windows": {
+        "windows": [
+          [
+            "2016-12-12",
+            "2016-12-16"
+          ]
+        ],
+        "basis": "actual 2016-12-13 index entries; no private WARC acquired"
+      },
+      "selected_ids": 80,
+      "records": 2,
+      "bytes": 2988,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.913243+00:00",
+      "finished_utc": "2026-10-22T16:05:04.913716+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0013.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-21",
+            "2014-07-24"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0013.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/The_Infamous_Warning",
+        "timestamp": "20140722214154"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 78091,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.525369+00:00",
+      "finished_utc": "2026-10-22T16:05:04.531870+00:00"
+    },
+    {
+      "dataset": "git:cyber",
+      "windows": {
+        "windows": [
+          [
+            "2016-05-01",
+            "2016-08-01"
+          ],
+          [
+            "2017-07-01",
+            "2017-08-01"
+          ]
+        ],
+        "basis": "published collection intervals; no per-row timestamps"
+      },
+      "selected_ids": 2000,
+      "records": 5566,
+      "bytes": 105310656,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:27.473111+00:00",
+      "git_objects": 5553,
+      "finished_utc": "2026-10-22T16:05:33.939940+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0004.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-25",
+            "2014-11-28"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0004.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/FAQ",
+        "timestamp": "20141126210951"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 79890,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.646926+00:00",
+      "finished_utc": "2026-10-22T16:05:04.650788+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0000.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-21",
+            "2014-07-24"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0000.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/2014_CICADA_3301_DATA_DUMP",
+        "timestamp": "20140722071929"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 159014,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.330256+00:00",
+      "finished_utc": "2026-10-22T16:05:04.342747+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0005.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-30",
+            "2014-08-02"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0005.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/CICADA_3301_2014_PUZZLE",
+        "timestamp": "20140731031910"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 140525,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.390030+00:00",
+      "finished_utc": "2026-10-22T16:05:04.401374+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0011.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-21",
+            "2014-07-24"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0011.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Puzzles_we_found_in_2014_and_doesnt_look_legit",
+        "timestamp": "20140722173828"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 113194,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.501979+00:00",
+      "finished_utc": "2026-10-22T16:05:04.510686+00:00"
+    },
+    {
+      "dataset": "cnr",
+      "windows": {
+        "windows": [
+          [
+            "2017-01-01",
+            "2017-06-01"
+          ]
+        ],
+        "basis": "published January-May collection interval; aggregated nodes/edges, not descriptors"
+      },
+      "selected_ids": 2432,
+      "records": 23,
+      "bytes": 31283798,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:00.876013+00:00",
+      "finished_utc": "2026-10-22T16:05:04.327194+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0002.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-03",
+            "2015-03-06"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0002.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/CICADA_3301_2014_PUZZLE",
+        "timestamp": "20150304024658"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 170332,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.768755+00:00",
+      "finished_utc": "2026-10-22T16:05:04.781800+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0009.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-04",
+            "2015-03-07"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0009.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Uncovering_Cicada_Wiki",
+        "timestamp": "20150305075857"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 131317,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.876963+00:00",
+      "finished_utc": "2026-10-22T16:05:04.886976+00:00"
+    },
+    {
+      "dataset": "git:owen",
+      "windows": {
+        "windows": [],
+        "basis": "Code only; cookie/contact scan, no observational time window assumed"
+      },
+      "selected_ids": 0,
+      "records": 1199,
+      "bytes": 2724106,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:34.830738+00:00",
+      "git_objects": 1199,
+      "finished_utc": "2026-10-22T16:05:35.045842+00:00",
+      "provisional_superset_ids_scanned": 11696,
+      "scope_refinement": "Only a strict subset of already-scanned zero patterns is retained; no rescan needed."
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0003.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-02",
+            "2015-03-05"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0003.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/CICADA_3301_2014_PUZZLE_FACTS_PART_3",
+        "timestamp": "20150303184241"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 466462,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.784227+00:00",
+      "finished_utc": "2026-10-22T16:05:04.819993+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0015.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-27",
+            "2014-11-30"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0015.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2013)",
+        "timestamp": "20141128081556"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 123772,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.730274+00:00",
+      "finished_utc": "2026-10-22T16:05:04.740710+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0004.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-25",
+            "2014-07-28"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0004.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/CICADA_3301_2014_PUZZLE",
+        "timestamp": "20140726171158"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 139834,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.376315+00:00",
+      "finished_utc": "2026-10-22T16:05:04.387151+00:00"
+    },
+    {
+      "dataset": "forum:agora-forums-20140421-whom-astorposts.tar.xz",
+      "windows": {
+        "windows": [
+          [
+            "2014-04-20",
+            "2014-04-24"
+          ]
+        ],
+        "basis": "archive filename crawl date + guard"
+      },
+      "selected_ids": 80,
+      "records": 24258,
+      "bytes": 72404709,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:33.437618+00:00",
+      "archive_sha256": "4838969a87610fe80678ae72a3d631ab2aaa5a6b219cd67226f528d96c4fc958",
+      "finished_utc": "2026-10-22T16:05:38.519627+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0014.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-20",
+            "2014-11-23"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0014.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2013)",
+        "timestamp": "20141121114540"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 123783,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.722608+00:00",
+      "finished_utc": "2026-10-22T16:05:04.728805+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0002.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-24",
+            "2014-07-27"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0002.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Cicada_2014_-_Part_1",
+        "timestamp": "20140725133913"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 73765,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.359837+00:00",
+      "finished_utc": "2026-10-22T16:05:04.365767+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0010.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-08-01",
+            "2014-08-04"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0010.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/MAIN_MENU_OF_PAGES_FOR_CICADA_2014",
+        "timestamp": "20140802002233"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 88559,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.492785+00:00",
+      "finished_utc": "2026-10-22T16:05:04.499760+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0001.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-25",
+            "2014-11-28"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0001.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Cicada_2014_-_Part_1",
+        "timestamp": "20141126224308"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 80003,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.613361+00:00",
+      "finished_utc": "2026-10-22T16:05:04.617296+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0019.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-21",
+            "2014-07-24"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0019.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2012)",
+        "timestamp": "20140722153817"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 100148,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.577602+00:00",
+      "finished_utc": "2026-10-22T16:05:04.582342+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0010.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-21",
+            "2014-11-24"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0010.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Uncovering_Cicada_Wiki",
+        "timestamp": "20141122012352"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 139491,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.688462+00:00",
+      "finished_utc": "2026-10-22T16:05:04.695963+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0021.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-21",
+            "2014-07-24"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0021.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2013)",
+        "timestamp": "20140722091757"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 122586,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.589683+00:00",
+      "finished_utc": "2026-10-22T16:05:04.595391+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0008.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-20",
+            "2014-11-23"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0008.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/The_Infamous_Warning",
+        "timestamp": "20141121020052"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 83681,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.675218+00:00",
+      "finished_utc": "2026-10-22T16:05:04.680823+00:00"
+    },
+    {
+      "dataset": "duta",
+      "windows": {
+        "windows": [
+          [
+            "2016-05-01",
+            "2016-08-01"
+          ],
+          [
+            "2017-07-01",
+            "2017-08-01"
+          ]
+        ],
+        "basis": "published collection intervals; no per-row timestamps"
+      },
+      "selected_ids": 2000,
+      "records": 621,
+      "bytes": 40960899,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:04:58.022761+00:00",
+      "finished_utc": "2026-10-22T16:05:00.783999+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0006.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-25",
+            "2014-07-28"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0006.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/CICADA_3301_2014_PUZZLE_FACTS_PART_3",
+        "timestamp": "20140726070526"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 442729,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.403825+00:00",
+      "finished_utc": "2026-10-22T16:05:04.437520+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0005.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-22",
+            "2014-11-25"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0005.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/MAIN_MENU_OF_PAGES_FOR_CICADA_2014",
+        "timestamp": "20141123141337"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 91314,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.652387+00:00",
+      "finished_utc": "2026-10-22T16:05:04.657037+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2015-11_warc_0011.gz",
+      "windows": {
+        "windows": [
+          [
+            "2015-03-01",
+            "2015-03-04"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2015-11_warc_0011.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/What_Happened_Part_1_(2013)",
+        "timestamp": "20150302162932"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 129021,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.900582+00:00",
+      "finished_utc": "2026-10-22T16:05:04.910611+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0017.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-28",
+            "2014-07-31"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0017.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Uncovering_Cicada_Wiki",
+        "timestamp": "20140729043529"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 140034,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.562390+00:00",
+      "finished_utc": "2026-10-22T16:05:04.568627+00:00"
+    },
+    {
+      "dataset": "warc:cc_warc_0012.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-07-31",
+            "2014-08-03"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/cc_warc_0012.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Puzzles_we_found_in_2014_and_doesnt_look_legit",
+        "timestamp": "20140801155304"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 131455,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.512961+00:00",
+      "finished_utc": "2026-10-22T16:05:04.523030+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0007.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-26",
+            "2014-11-29"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0007.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/Puzzles_we_found_in_2014_and_doesnt_look_legit",
+        "timestamp": "20141127051639"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 131788,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.667352+00:00",
+      "finished_utc": "2026-10-22T16:05:04.673600+00:00"
+    },
+    {
+      "dataset": "warc:CC-MAIN-2014-49_warc_0003.gz",
+      "windows": {
+        "windows": [
+          [
+            "2014-11-23",
+            "2014-11-26"
+          ]
+        ],
+        "basis": "actual CDX capture date +/- one day guard",
+        "file": "archive-de-travail/CC-MAIN-2014-49_warc_0003.gz",
+        "url": "http://uncovering-cicada.wikia.com/wiki/FAQ",
+        "timestamp": "20141124061817"
+      },
+      "selected_ids": 64,
+      "records": 2,
+      "bytes": 79631,
+      "hits": [],
+      "errors": [],
+      "started_utc": "2026-10-22T16:05:04.641522+00:00",
+      "finished_utc": "2026-10-22T16:05:04.645453+00:00"
+    }
+  ]
+}

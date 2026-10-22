@@ -3,14 +3,21 @@ from pathlib import Path
 import html,json,os,re
 ROOT=Path(__file__).resolve().parent.parent
 E=html.escape
-def md(text,prefix='',standalone=False):
+def md(text,prefix='',standalone=False,render_images=False):
  def inline(s):
   s=E(s)
+  if render_images:
+   def picture(m):
+    alt,target=m.groups()
+    raw=html.unescape(target)
+    return '<img loading="lazy" src="'+E(os.path.normpath(prefix+raw),quote=True)+'" alt="'+alt+'">'
+   s=re.sub(r'!\[([^\]]*)\]\(([^)]+)\)',picture,s)
   def link(m):
    title,target=m.groups()
    raw=html.unescape(target)
    if raw.startswith(('https://','http://')):return '<a href="'+E(raw,quote=True)+'">'+title+'</a>'
    if standalone:return title+' <small>['+target+']</small>'
+   if raw=='PARCOURS_10_MIN.md':return '<a href="#parcours" data-view="parcours">'+title+'</a>'
    return '<a href="'+E(os.path.normpath(prefix+raw),quote=True)+'">'+title+'</a>'
   s=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,s)
   s=re.sub(r'`([^`]+)`',r'<code>\1</code>',s);s=re.sub(r'\*\*([^*]+)\*\*',r'<strong>\1</strong>',s)
@@ -35,7 +42,9 @@ def md(text,prefix='',standalone=False):
    a=[]
    while i<len(lines) and lines[i].startswith('- '):a.append('<li>'+inline(lines[i][2:])+'</li>');i+=1
    out.append('<ul>'+''.join(a)+'</ul>');continue
-  if line.startswith('!['):i+=1;continue
+  if line.startswith('!['):
+   if render_images:out.append('<figure class="guide-figure">'+inline(line)+'</figure>')
+   i+=1;continue
   a=[line];i+=1
   while i<len(lines) and lines[i].strip() and not lines[i].startswith(('#','|','- ','```','![')):
    a.append(lines[i]);i+=1
@@ -46,14 +55,15 @@ CSS='''*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;backgro
 
 reg=json.loads((ROOT/'donnees/registre-courant.json').read_text())
 families=json.loads((ROOT/'donnees/familles.json').read_text())
-sections=[('accueil','Accueil','README.md'),('etat','État de la recherche','SYNTHESE.md'),('onion','La piste .onion','PISTE_ONION.md'),('fiches','171 fiches',None),('atlas','75 images',None),('credits','Crédits','ATTRIBUTION.md')]
+sections=[('accueil','Accueil','README.md'),('parcours','10 minutes','PARCOURS_10_MIN.md'),('etat','État de la recherche','SYNTHESE.md'),('onion','La piste .onion','PISTE_ONION.md'),('fiches','171 fiches',None),('atlas','75 images',None),('credits','Crédits','ATTRIBUTION.md')]
+CSS+=' .guide-figure{margin:28px 0}.guide-figure img{display:block;width:100%;max-height:710px;object-fit:contain}#parcours td img{width:100%;height:250px;object-fit:contain}#parcours h2{margin-top:36px}'
 out=['<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ATELIER PRIMUS — Liber Primus</title><style>'+CSS+'</style></head><body><header><div class="kicker">MarcelDuSHAmp · Collaboration IA : ASTRA GPT-6</div><h1>ATELIER PRIMUS.<br>Liber Primus.</h1><p class="lead">Résultats, état de la recherche et piste d’export vers deux identifiants Tor candidats.</p><p>État du 22 octobre 2026 · édition v0.1.0</p><div class="notice"><strong>Calcul reproductible ; destination non authentifiée.</strong><br>Les sorties candidates et les variantes sont exposées avec leurs limites. Aucune nouvelle page LP2 déchiffrée n’est revendiquée.</div></header><main><nav class="nav" aria-label="Sections">']
 for i,(sid,title,path) in enumerate(sections):
  out.append('<button data-view="'+sid+'"'+(' class="active"' if i==0 else '')+'>'+E(title)+'</button>')
 out.append('</nav>')
 for i,(sid,title,path) in enumerate(sections):
  out.append('<section id="'+sid+'"'+(' hidden' if i else '')+'>')
- if path:out.append(md((ROOT/path).read_text()))
+ if path:out.append(md((ROOT/path).read_text(),render_images=sid=='parcours'))
  if sid=='onion':out.append('<h2>Les deux sources visuelles</h2><div class="atlas"><a class="page" href="images/G032.jpg"><img src="images/G032-recadrage.png" alt="Grille G032 et son nombre rouge"><strong>G032 — parcours</strong></a><a class="page" href="images/G073.jpg"><img src="images/G073.jpg" alt="Page G073"><strong>G073 — page à rechercher</strong></a></div>')
  if sid=='fiches':
   out.append('<h2>171 fiches attribuées</h2><p>Les anciens statuts sont conservés ; la synthèse et les corrections indiquent les conclusions actuelles.</p><div class="filters"><input id="search" placeholder="G032, lag-5, routage…" aria-label="Rechercher"><select id="family" aria-label="Famille"><option value="">Toutes les familles</option>'+''.join('<option value="'+f['id']+'">'+E(f['nom'])+'</option>' for f in families)+'</select></div><p id="count" class="count"></p>')
@@ -68,4 +78,4 @@ for i,(sid,title,path) in enumerate(sections):
  out.append('</section>')
 out.append('<footer>MarcelDuSHAmp est un pseudonyme. Les recettes et matériaux antérieurs restent crédités à leurs sources. <a href="CITER.md">Citer cette édition</a>.</footer></main><script>document.querySelectorAll("[data-view]").forEach(b=>b.onclick=()=>{document.querySelectorAll("main>section").forEach(s=>s.hidden=s.id!==b.dataset.view);document.querySelectorAll("[data-view]").forEach(x=>x.classList.toggle("active",x===b));});const q=document.querySelector("#search"),f=document.querySelector("#family"),cards=[...document.querySelectorAll(".card")];function filter(){let n=0;cards.forEach(c=>{let ok=(!f.value||c.dataset.family===f.value)&&(!q.value||c.dataset.search.includes(q.value.toLocaleLowerCase()));c.hidden=!ok;if(ok)n++});document.querySelector("#count").textContent=n+" fiches affichées sur 171";}q.oninput=f.onchange=filter;filter();</script></body></html>')
 (ROOT/'INDEX.html').write_text(''.join(out))
-print('INDEX.html généré : 171 fiches, 75 images, six rubriques.')
+print('INDEX.html généré : 171 fiches, 75 images sources, sept rubriques dont le parcours illustré.')

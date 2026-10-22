@@ -1,0 +1,47 @@
+{
+  "f0_sha256": "3b9b07d9a26e6d55c432d94d2661fdff3c2b348daed06821f2bdb23184a4b290",
+  "g032_archived_result_equal": true,
+  "g032_orders": 6,
+  "serializations_per_order": 2,
+  "historical_controls": 8,
+  "anchors": [
+    {
+      "source": 105,
+      "value": 63,
+      "target": 249
+    },
+    {
+      "source": 249,
+      "value": 158,
+      "target": 211
+    }
+  ],
+  "routing_tests": [
+    {
+      "source": 6,
+      "class": "B",
+      "value": 126,
+      "target": 207,
+      "target_value": 21,
+      "contract_success": false
+    },
+    {
+      "source": 206,
+      "class": "B",
+      "value": 127,
+      "target": 239,
+      "target_value": 173,
+      "contract_success": false
+    },
+    {
+      "source": 106,
+      "class": "A",
+      "value": 31,
+      "target": 248,
+      "target_value": 113,
+      "contract_success": false
+    }
+  ],
+  "routing_successes": 0,
+  "limits": "Reproduction arithmétique ; pas de nouveau test aveugle ni authentification historique."
+}

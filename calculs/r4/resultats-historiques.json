@@ -1,0 +1,515 @@
+{
+  "source_script": "56bb6bca171056b1102e3947305eb804cf8aa01df3abab4964ec5a92ab8c76c6__LP_SEGMENTATION_AUDIT_20261013.py",
+  "fixed_reader": {
+    "ordering": [
+      6,
+      7,
+      11,
+      10,
+      9,
+      5,
+      1,
+      2,
+      3,
+      4,
+      8,
+      12,
+      16,
+      15,
+      14,
+      13
+    ],
+    "selected_body_positions_1based": [
+      10,
+      2,
+      12,
+      13
+    ],
+    "calls_1based": [
+      1,
+      25,
+      49
+    ]
+  },
+  "observed": {
+    "G068_physical": {
+      "groups": 23,
+      "readout_latin": "ᚪᚾᛞᛝ",
+      "gp_sum": 294
+    },
+    "G068_lexical": {
+      "words": 20,
+      "readout_latin": "ᛗᚾᛟᛞ",
+      "gp_sum": 272
+    },
+    "R4_lexical_outputs": [
+      198,
+      254,
+      154
+    ],
+    "R4_physical_outputs": [
+      272,
+      195,
+      288
+    ],
+    "same_unit_transfer_survives": false,
+    "note": "G068 training object is physical groups; invariant transfer to R4 physical groups yields 272/195/288, not 198/254/154."
+  },
+  "observed_chain": {
+    "3b9b07d9": {
+      "lexical_outputs": [
+        198,
+        254,
+        154
+      ],
+      "high3": [
+        6,
+        7,
+        4
+      ],
+      "haddr": [
+        54,
+        247,
+        212
+      ],
+      "frame": {
+        "byte_bc": true,
+        "start": 212,
+        "end": 247,
+        "span36": true,
+        "terminal_d33": true,
+        "ordinary35_d33": true,
+        "required_a": 198
+      },
+      "sentinel_match": true,
+      "first35_ordinary": true,
+      "last_output": 126,
+      "output_special_positions": [
+        36
+      ]
+    },
+    "0201348c": {
+      "lexical_outputs": [
+        198,
+        254,
+        154
+      ],
+      "high3": [
+        6,
+        7,
+        4
+      ],
+      "haddr": [
+        54,
+        247,
+        212
+      ],
+      "frame": {
+        "byte_bc": true,
+        "start": 212,
+        "end": 247,
+        "span36": true,
+        "terminal_d33": true,
+        "ordinary35_d33": true,
+        "required_a": 198
+      },
+      "sentinel_match": true,
+      "first35_ordinary": true,
+      "last_output": 126,
+      "output_special_positions": [
+        36
+      ]
+    }
+  },
+  "null_models": {
+    "body_shuffle": {
+      "supports": [
+        134,
+        260,
+        229
+      ],
+      "denominators": [
+        1820,
+        1820,
+        1820
+      ],
+      "body_lengths": [
+        [
+          8,
+          7,
+          3,
+          6,
+          1,
+          3,
+          3,
+          4,
+          5,
+          3,
+          2,
+          1,
+          7,
+          2,
+          4,
+          6
+        ],
+        [
+          3,
+          8,
+          4,
+          4,
+          8,
+          4,
+          5,
+          5,
+          8,
+          5,
+          2,
+          3,
+          2,
+          3,
+          2,
+          4
+        ],
+        [
+          12,
+          5,
+          3,
+          8,
+          4,
+          5,
+          8,
+          3,
+          4,
+          10,
+          3,
+          7,
+          3,
+          3,
+          4,
+          8
+        ]
+      ],
+      "f0": {
+        "3b9b07d9": {
+          "denominator": 6028568000,
+          "tag_674_count": 32358084,
+          "tag_674_p": 0.005367457744525732,
+          "exact_198_254_154_count": 3146,
+          "exact_198_254_154_p": 5.218486380181828e-07,
+          "span36_count": 14620060,
+          "span36_p": 0.0024251298152397054,
+          "span36_plus_sentinel_count": 28772,
+          "span36_plus_sentinel_p": 4.772609349351289e-06,
+          "span36_sentinel_terminalD33_count": 3146,
+          "span36_sentinel_terminalD33_p": 5.218486380181828e-07,
+          "full_35ordinary_then_D33_count": 3146,
+          "full_35ordinary_then_D33_p": 5.218486380181828e-07,
+          "full_chain_tag674_plus_full36_count": 3146,
+          "full_chain_tag674_plus_full36_p": 5.218486380181828e-07,
+          "top_closures": [
+            [
+              [
+                212,
+                247,
+                198,
+                254,
+                154
+              ],
+              3146
+            ]
+          ]
+        },
+        "0201348c": {
+          "denominator": 6028568000,
+          "tag_674_count": 32358084,
+          "tag_674_p": 0.005367457744525732,
+          "exact_198_254_154_count": 3146,
+          "exact_198_254_154_p": 5.218486380181828e-07,
+          "span36_count": 14620060,
+          "span36_p": 0.0024251298152397054,
+          "span36_plus_sentinel_count": 28811,
+          "span36_plus_sentinel_p": 4.77907854734325e-06,
+          "span36_sentinel_terminalD33_count": 3146,
+          "span36_sentinel_terminalD33_p": 5.218486380181828e-07,
+          "full_35ordinary_then_D33_count": 3146,
+          "full_35ordinary_then_D33_p": 5.218486380181828e-07,
+          "full_chain_tag674_plus_full36_count": 3146,
+          "full_chain_tag674_plus_full36_p": 5.218486380181828e-07,
+          "top_closures": [
+            [
+              [
+                212,
+                247,
+                198,
+                254,
+                154
+              ],
+              3146
+            ]
+          ]
+        }
+      }
+    },
+    "length_stratified": {
+      "supports": [
+        8,
+        75,
+        10
+      ],
+      "denominators": [
+        8,
+        81,
+        10
+      ],
+      "body_lengths": [
+        [
+          8,
+          7,
+          3,
+          6,
+          1,
+          3,
+          3,
+          4,
+          5,
+          3,
+          2,
+          1,
+          7,
+          2,
+          4,
+          6
+        ],
+        [
+          3,
+          8,
+          4,
+          4,
+          8,
+          4,
+          5,
+          5,
+          8,
+          5,
+          2,
+          3,
+          2,
+          3,
+          2,
+          4
+        ],
+        [
+          12,
+          5,
+          3,
+          8,
+          4,
+          5,
+          8,
+          3,
+          4,
+          10,
+          3,
+          7,
+          3,
+          3,
+          4,
+          8
+        ]
+      ],
+      "f0": {
+        "3b9b07d9": {
+          "denominator": 6480,
+          "tag_674_count": 64,
+          "tag_674_p": 0.009876543209876543,
+          "exact_198_254_154_count": 2,
+          "exact_198_254_154_p": 0.00030864197530864197,
+          "span36_count": 16,
+          "span36_p": 0.0024691358024691358,
+          "span36_plus_sentinel_count": 2,
+          "span36_plus_sentinel_p": 0.00030864197530864197,
+          "span36_sentinel_terminalD33_count": 2,
+          "span36_sentinel_terminalD33_p": 0.00030864197530864197,
+          "full_35ordinary_then_D33_count": 2,
+          "full_35ordinary_then_D33_p": 0.00030864197530864197,
+          "full_chain_tag674_plus_full36_count": 2,
+          "full_chain_tag674_plus_full36_p": 0.00030864197530864197,
+          "top_closures": [
+            [
+              [
+                212,
+                247,
+                198,
+                254,
+                154
+              ],
+              2
+            ]
+          ]
+        },
+        "0201348c": {
+          "denominator": 6480,
+          "tag_674_count": 64,
+          "tag_674_p": 0.009876543209876543,
+          "exact_198_254_154_count": 2,
+          "exact_198_254_154_p": 0.00030864197530864197,
+          "span36_count": 16,
+          "span36_p": 0.0024691358024691358,
+          "span36_plus_sentinel_count": 2,
+          "span36_plus_sentinel_p": 0.00030864197530864197,
+          "span36_sentinel_terminalD33_count": 2,
+          "span36_sentinel_terminalD33_p": 0.00030864197530864197,
+          "full_35ordinary_then_D33_count": 2,
+          "full_35ordinary_then_D33_p": 0.00030864197530864197,
+          "full_chain_tag674_plus_full36_count": 2,
+          "full_chain_tag674_plus_full36_p": 0.00030864197530864197,
+          "top_closures": [
+            [
+              [
+                212,
+                247,
+                198,
+                254,
+                154
+              ],
+              2
+            ]
+          ]
+        }
+      }
+    },
+    "cyclic_rotation": {
+      "supports": [
+        15,
+        16,
+        16
+      ],
+      "denominators": [
+        16,
+        16,
+        16
+      ],
+      "body_lengths": [
+        [
+          8,
+          7,
+          3,
+          6,
+          1,
+          3,
+          3,
+          4,
+          5,
+          3,
+          2,
+          1,
+          7,
+          2,
+          4,
+          6
+        ],
+        [
+          3,
+          8,
+          4,
+          4,
+          8,
+          4,
+          5,
+          5,
+          8,
+          5,
+          2,
+          3,
+          2,
+          3,
+          2,
+          4
+        ],
+        [
+          12,
+          5,
+          3,
+          8,
+          4,
+          5,
+          8,
+          3,
+          4,
+          10,
+          3,
+          7,
+          3,
+          3,
+          4,
+          8
+        ]
+      ],
+      "f0": {
+        "3b9b07d9": {
+          "denominator": 4096,
+          "tag_674_count": 24,
+          "tag_674_p": 0.005859375,
+          "exact_198_254_154_count": 1,
+          "exact_198_254_154_p": 0.000244140625,
+          "span36_count": 16,
+          "span36_p": 0.00390625,
+          "span36_plus_sentinel_count": 1,
+          "span36_plus_sentinel_p": 0.000244140625,
+          "span36_sentinel_terminalD33_count": 1,
+          "span36_sentinel_terminalD33_p": 0.000244140625,
+          "full_35ordinary_then_D33_count": 1,
+          "full_35ordinary_then_D33_p": 0.000244140625,
+          "full_chain_tag674_plus_full36_count": 1,
+          "full_chain_tag674_plus_full36_p": 0.000244140625,
+          "top_closures": [
+            [
+              [
+                212,
+                247,
+                198,
+                254,
+                154
+              ],
+              1
+            ]
+          ]
+        },
+        "0201348c": {
+          "denominator": 4096,
+          "tag_674_count": 24,
+          "tag_674_p": 0.005859375,
+          "exact_198_254_154_count": 1,
+          "exact_198_254_154_p": 0.000244140625,
+          "span36_count": 16,
+          "span36_p": 0.00390625,
+          "span36_plus_sentinel_count": 1,
+          "span36_plus_sentinel_p": 0.000244140625,
+          "span36_sentinel_terminalD33_count": 1,
+          "span36_sentinel_terminalD33_p": 0.000244140625,
+          "full_35ordinary_then_D33_count": 1,
+          "full_35ordinary_then_D33_p": 0.000244140625,
+          "full_chain_tag674_plus_full36_count": 1,
+          "full_chain_tag674_plus_full36_p": 0.000244140625,
+          "top_closures": [
+            [
+              [
+                212,
+                247,
+                198,
+                254,
+                154
+              ],
+              1
+            ]
+          ]
+        }
+      }
+    }
+  },
+  "interpretation": {
+    "body_shuffle": "calls and BODY16/TRAILER boundaries fixed; each BODY16 word kept intact; uniform permutation inside each BODY16.",
+    "length_stratified": "same, but words only permute among slots of equal rune length; exact length at every body slot preserved.",
+    "cyclic_rotation": "same BODY16 circularly rotated; internal cyclic adjacency preserved, only phase broken."
+  }
+}

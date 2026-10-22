@@ -1,0 +1,401 @@
+[
+  {
+    "id": "S001",
+    "titre": "Cadrage éditorial du dossier",
+    "date_source": "2026-10-20",
+    "nature": "Plan, non preuve",
+    "sha256": "8e58f983e989b9a91345ef222ea6c9d7e45655caa006250734c70073495426d5"
+  },
+  {
+    "id": "S002",
+    "titre": "Glossaire de recherche",
+    "date_source": "2026-10-20",
+    "nature": "Convention du projet",
+    "sha256": "7bd701c1e16918009d0706d0c6e9855d8cc0e49d3c1944df62645991c320123e"
+  },
+  {
+    "id": "S003",
+    "titre": "Contrôle de couverture avant publication",
+    "date_source": "2026-10-20",
+    "nature": "Revue documentaire",
+    "sha256": "c00a38a4f93af0078ecb211db44a9f08485c318e69d82b29b50471a4ffabd27e"
+  },
+  {
+    "id": "S004",
+    "titre": "Audit interne V3–V6 et SEEK/SHIFT",
+    "date_source": "2026-10-20",
+    "nature": "Rapport de recherche",
+    "sha256": "4d12e5b03b7f6d49d396086aa6eaeb903b20ec4c5be3e9d1458bf59209226d39"
+  },
+  {
+    "id": "S005",
+    "titre": "SEEK → X : extraction et limites",
+    "date_source": "2026-10-20",
+    "nature": "Rapport de recherche",
+    "sha256": "61e2b696890cf97317593e0fc548a1389d2376f7d404ac9831e2528c87c4857f"
+  },
+  {
+    "id": "S006",
+    "titre": "Rétablissement V3–V6 des deux échanges",
+    "date_source": "2026-10-20",
+    "nature": "Rapport de recherche",
+    "sha256": "8975e9cb2a77a451a1512920e131a88edf03e015b9d155191d3a54c160eb011c"
+  },
+  {
+    "id": "S007",
+    "titre": "Sélection R4 et prédiction du paquet arithmétique",
+    "date_source": "2026-10-20",
+    "nature": "Rapport de recherche",
+    "sha256": "56e2e1ce4a2c426ca26b9d73af8e2c8d86c0561db70306c1d1d62e811438ba7a"
+  },
+  {
+    "id": "S008",
+    "titre": "Prédiction D : ablation d’état et H156",
+    "date_source": "2026-10-20",
+    "nature": "Rapport de recherche",
+    "sha256": "fab75f8a96dfc32d721a1473ade16fc4c027215ec6668ecc8bfc32026ad71443"
+  },
+  {
+    "id": "S009",
+    "titre": "Analyse des archives philosophy et puzzles",
+    "date_source": "2026-10-20",
+    "nature": "Rapport de recherche",
+    "sha256": "69946645b25614e90758004141ab4f012017237b1dd43faccd2ed7c5c1192721"
+  },
+  {
+    "id": "S010",
+    "titre": "43 énoncés de correspondance des archives",
+    "date_source": "2026-10-20",
+    "nature": "Registre antérieur",
+    "sha256": "3cc9d86f6a389e96abaf0f23a23e68ba44aa12f83361a11195b041e314861046"
+  },
+  {
+    "id": "S011",
+    "titre": "Audit de convergence avec rectificatifs du 16–17 octobre",
+    "date_source": "2026-10-17",
+    "nature": "Rapport de recherche",
+    "sha256": "62726710b49ce3896718c180b978ba5a96a576a6a502a0e756c784f3965d7f26"
+  },
+  {
+    "id": "S012",
+    "titre": "Diagnostic HEAD24 et récupération des contrôles",
+    "date_source": "2026-09-24",
+    "nature": "Rapport de recherche",
+    "sha256": "ec826c975c904d7fe1c656c561cdad92fbad36fadd73367104a009c55c992365"
+  },
+  {
+    "id": "S013",
+    "titre": "B2 HEAD24 : rappel et inflation",
+    "date_source": "2026-09-24",
+    "nature": "Rapport de recherche",
+    "sha256": "d003f23fd19a11f344aec29cda8966d702009e3456bff860967b723e60407292"
+  },
+  {
+    "id": "S014",
+    "titre": "Lag-5 : concentration par identité de rune",
+    "date_source": "2026-09-27",
+    "nature": "Rapport de recherche",
+    "sha256": "d54bdbe844c1c7164840b0d508c5a44b188f5b61180c4c7173a90f94d5c9ac89"
+  },
+  {
+    "id": "S015",
+    "titre": "M6 : cinq items, classe grammaticale inconnue",
+    "date_source": "2026-10-03",
+    "nature": "Rapport de recherche",
+    "sha256": "809965f536114ec7eb8349cbf5cc865784d8797167396efa5e22c300eeaa48b7"
+  },
+  {
+    "id": "S016",
+    "titre": "Freeze master du 3 octobre — historique",
+    "date_source": "2026-10-03",
+    "nature": "Rapport de recherche",
+    "sha256": "2fa427f3133145dabbcec1035b16e3fb073cd7682d6bcd9cc8e9b5b6d6dc24e3"
+  },
+  {
+    "id": "S017",
+    "titre": "Fond des 75 JPEG et conventions d’adressage",
+    "date_source": "2026-10-16",
+    "nature": "Rapport de recherche",
+    "sha256": "09d816e312543e5cdca64f3cd81e42e0ea541ade0af779ba3c61e35141118b26"
+  },
+  {
+    "id": "S018",
+    "titre": "Atlas global des 100 contrats — historique",
+    "date_source": "Date non explicitée dans la pièce",
+    "nature": "Atlas antérieur",
+    "sha256": "ef28a50a46e035eab0df8841080a3329c33676244fcdcc7448b30f8357cb4f36"
+  },
+  {
+    "id": "S019",
+    "titre": "Campagne six familles : 2 873 888 configurations",
+    "date_source": "Date non explicitée dans la pièce",
+    "nature": "Rapport de recherche",
+    "sha256": "86717c67e803f65cd83ad4b0fdb4a3ff4c64fd1efcda1764f373206d8ef963ad"
+  },
+  {
+    "id": "S020",
+    "titre": "Rétro-ingénierie LP : CP4 et modèles concurrents",
+    "date_source": "Date non explicitée dans la pièce",
+    "nature": "Rapport de recherche",
+    "sha256": "f98b2bedf8500c2c41d7107868b35d28306fa0a60e61d11613c682ad3bb87672"
+  },
+  {
+    "id": "S021",
+    "titre": "DJU–BEI : sum-index, socket et contrôles de banalité",
+    "date_source": "Date non explicitée dans la pièce",
+    "nature": "Rapport de recherche",
+    "sha256": "e12a163a65d15c5d0497ba75bd1c5246c54b7b153af779debea49cef318a7ab1"
+  },
+  {
+    "id": "S022",
+    "titre": "R4 MULTIPASS : arbres et TAIL14",
+    "date_source": "2026-10-19",
+    "nature": "Rapport de recherche",
+    "sha256": "f243954f2ce331288d515e2d7789da0f4cb87cf6f30d305d7c84e5c1f1fa5b43"
+  },
+  {
+    "id": "S023",
+    "titre": "DJU–BEI : contexte des deux occurrences",
+    "date_source": "Date non explicitée dans la pièce",
+    "nature": "Rapport de recherche",
+    "sha256": "2a3cbeb839e3ddd9499541c7fe978592cf38911812459a6043b12dd95119813d"
+  },
+  {
+    "id": "S024",
+    "titre": "ASTRA CP5 : HOLD, tokenizer, codecs variables",
+    "date_source": "2026-10-14",
+    "nature": "Rapport de recherche",
+    "sha256": "2ea146bdbd6ae387cebd9b8e72540d8f3cd67ba85e8e7b235f7be7dcb43c2f6a"
+  },
+  {
+    "id": "S025",
+    "titre": "ÉTAU Agent1 : machine 32×8, état et frontières",
+    "date_source": "2026-10-14",
+    "nature": "Rapport de recherche",
+    "sha256": "0b960df332a81c936aefa4136bd5f92b3b9858b35787a353142ff5f292f85f0b"
+  },
+  {
+    "id": "S026",
+    "titre": "Lag-5 RAKE : exécution bloquée",
+    "date_source": "2026-09-27",
+    "nature": "Rapport de recherche",
+    "sha256": "cccfd8773440bebbb6b0fd9c1b35ce354b7db558df1e0e06d52cb3cbd9f6bbba"
+  },
+  {
+    "id": "S027",
+    "titre": "PRE64 8×8 : structure et essais",
+    "date_source": "2026-10-04",
+    "nature": "Rapport de recherche",
+    "sha256": "26fac3fb44ce01dedd57dae69129bf5b50d33ae441953d758cb4a63ed2d912c8"
+  },
+  {
+    "id": "S028",
+    "titre": "Philosophy & Symbolism — source fournie",
+    "date_source": "Date non explicitée",
+    "nature": "Contexte interprétatif tiers",
+    "sha256": "f8e3afbc0e09f508b81ce7d8398e0a2760b1c51a58e0a287861f8a2de22ea9ae"
+  },
+  {
+    "id": "S029",
+    "titre": "V5 : machine candidate A→Z",
+    "date_source": "2026-10-20",
+    "nature": "Hypothèse d’intégration",
+    "sha256": "31d9cda1929255d2450e777d93566938d1611641f5ee727c8eb8f30d2e19b7dc"
+  },
+  {
+    "id": "S030",
+    "titre": "V5 : noyau et bootstrap 80/245",
+    "date_source": "2026-10-20",
+    "nature": "Rapport de recherche",
+    "sha256": "5fff5fb26181805b4751edf78287bd572da5c65124651ef6f0f4fb278c710ab7"
+  },
+  {
+    "id": "S031",
+    "titre": "V5 : lectures à plusieurs échelles",
+    "date_source": "2026-10-20",
+    "nature": "Rapport de recherche",
+    "sha256": "31b725422d9031b78d1f2e68a0ce0f897efb96da63f2152d81747277445bdec7"
+  },
+  {
+    "id": "S032",
+    "titre": "V5 : emploi proposé de STANDING",
+    "date_source": "2026-10-20",
+    "nature": "Hypothèse d’intégration",
+    "sha256": "3fe60d07aeacc8c8d67b358525a73381bfdea4a44919bc61ba1eadade269d9fa"
+  },
+  {
+    "id": "S033",
+    "titre": "V5 : codes5/26/20 et consultations F0",
+    "date_source": "2026-10-20",
+    "nature": "Hypothèse d’intégration",
+    "sha256": "1bb27575b6653571c3e7f2945aeb4ad73c170fb4eee59756187117de0a12aefd"
+  },
+  {
+    "id": "S034",
+    "titre": "V5 : route terminale candidate",
+    "date_source": "2026-10-20",
+    "nature": "Hypothèse d’intégration",
+    "sha256": "ea9f6df5ce32e0a85db3b43228c603f4550063d8ab5b19abc9adbd3b279ceb12"
+  },
+  {
+    "id": "S035",
+    "titre": "V6 : export des16 SPECIAL",
+    "date_source": "2026-10-20",
+    "nature": "Hypothèse d’export",
+    "sha256": "6f0cde41975e57379d993e916b1f46f917eb9f0e3dc68ac58a5a40a4f1abac51"
+  },
+  {
+    "id": "S036",
+    "titre": "V3 : flux et continuations",
+    "date_source": "2026-10-20",
+    "nature": "État antérieur",
+    "sha256": "6391c5657c38c2efa8e9ccf00e864d5b99ca843806e6ce35e72ea3e4c1dd578a"
+  },
+  {
+    "id": "S037",
+    "titre": "Contrôle indépendant des pièces externes",
+    "date_source": "2026-10-20",
+    "nature": "Protocole documentaire",
+    "sha256": "3b91a72b9af8592600f6924bba83c4cc408293476464c7db2f332d9607c39fab"
+  },
+  {
+    "id": "S038",
+    "titre": "105 contrôles de l’audit interne — résultats conservés",
+    "date_source": "2026-10-20",
+    "nature": "Journal antérieur",
+    "sha256": "ba59cfb3dac583973e780f325ed0a998df039f4405ea3bc7217ee18fa7d0f44d"
+  },
+  {
+    "id": "S039",
+    "titre": "Audit interne — valeurs et recensements",
+    "date_source": "2026-10-20",
+    "nature": "Résultats calculés antérieurement",
+    "sha256": "017cae5b9da0ea5eeaf0ce024e1dc9788b4136eed69dec0b9de8e073368c9784"
+  },
+  {
+    "id": "S040",
+    "titre": "SEEK/SHIFT — sortie brute du rejeu",
+    "date_source": "2026-10-20",
+    "nature": "Résultats calculés antérieurement",
+    "sha256": "2b920a59fee56ca044fcd0e118c686da33b4b71d16076a143f65a75c12845261"
+  },
+  {
+    "id": "S041",
+    "titre": "V3–V6 — sortie brute du rejeu",
+    "date_source": "2026-10-20",
+    "nature": "Résultats calculés antérieurement",
+    "sha256": "67676a1a4e388f221dfd6782deede3fb3b51c8d3082153593713707316189a16"
+  },
+  {
+    "id": "S042",
+    "titre": "56 fiches des archives historiques",
+    "date_source": "2026-10-20",
+    "nature": "Annexe documentaire",
+    "sha256": "db982a907257850b4e29731013a3bd75a1fb2f7f4637204b974e95cc45d61ad2"
+  },
+  {
+    "id": "S043",
+    "titre": "Sources publiques consultées par l’analyse historique",
+    "date_source": "2026-10-20",
+    "nature": "Bibliographie antérieure",
+    "sha256": "86e3c666678a812fed563a9c2ffd5204a91924632954278ee6de8c27e53aefaf"
+  },
+  {
+    "id": "S044",
+    "titre": "Miroirs G005/G016 et transfert G071",
+    "date_source": "Date non explicitée",
+    "nature": "Rapport de recherche",
+    "sha256": "11005603e4f8b5439430ea79fa6374be6b5a8e96a5d1bb0cab69c8224471052b"
+  },
+  {
+    "id": "S045",
+    "titre": "Extensions V3–V6 — sortie brute",
+    "date_source": "2026-10-20",
+    "nature": "Résultats calculés antérieurement",
+    "sha256": "cc2709322a62ea978cdac12363cbfe909d26a06ca9ef2071706f739218d30993"
+  },
+  {
+    "id": "S046",
+    "titre": "Inventaire des387 fichiers des archives fournies",
+    "date_source": "2026-10-20",
+    "nature": "Inventaire antérieur",
+    "sha256": "ec61e9e12003eccbd8ba54e2907ef744382fa60a72ca5090e0ac8d8290116bbf"
+  },
+  {
+    "id": "S047",
+    "titre": "CAST7→6 :correspondance U3/G068",
+    "date_source": "2026-10-19",
+    "nature": "Rapport de recherche",
+    "sha256": "1089c56d37ddfb60b6d4944527ae1443b620b57f24885a755d7ed6948bc7ae42"
+  },
+  {
+    "id": "S048",
+    "titre": "G041 désentrelacement :freezeV2",
+    "date_source": "2026-10-19",
+    "nature": "Rapport de recherche",
+    "sha256": "ca87684f01be166d5e425e880ee1fe1e91c16bc3adf1940a0460bc21e9ecd7fe"
+  },
+  {
+    "id": "S049",
+    "titre": "D36 : quartet et fenêtre BODY36",
+    "date_source": "2026-10-11 (date du paquet cité)",
+    "nature": "Rapport de recherche",
+    "sha256": "9b2c2995f96aee71356bf6675a2f511a24aaf1fdab3c117dcba9e5207bb8acae"
+  },
+  {
+    "id": "S050",
+    "titre": "G017–G019 : différences, quatre points par croix et projections",
+    "date_source": "2026-10-18",
+    "nature": "Rapport antérieur avec figures",
+    "sha256": "1f2f65e2730dab0c7c175e2824232244e20896164c5c8acb3a4c331102e9647e"
+  },
+  {
+    "id": "S051",
+    "titre": "Gris, JPEG, couronnes et atlas résiduel des 75 pages",
+    "date_source": "2026-10-18",
+    "nature": "Rapport antérieur avec figures",
+    "sha256": "5e11e6e98beb28beecd024ec772f359a98cce8d1a61ac6c3bbd39029d9759715"
+  },
+  {
+    "id": "S052",
+    "titre": "Orienter puis lire : points clairs et rotations des croix",
+    "date_source": "2026-10-18",
+    "nature": "Rapport antérieur avec figures",
+    "sha256": "2eb323771cb048a0b17321f47609fd9248024ae191e97b64d1068142e75f2673"
+  },
+  {
+    "id": "S053",
+    "titre": "Six captures de résidus et prélèvements des huit points",
+    "date_source": "Date non explicitée dans la pièce",
+    "nature": "Rapport antérieur avec figures",
+    "sha256": "3c657e3af86750199eea302dd00ce0b5c9b17a4207d98450c4f59ca83dc8fd24"
+  },
+  {
+    "id": "S054",
+    "titre": "Audit des noirs — quatre étoiles par motif, page 7",
+    "date_source": "2026-10-17",
+    "nature": "Rapport illustré antérieur",
+    "sha256": "867cd994908b4e7a1ef3aa0fc2565b79c8fc5c94aef8cd232f2e464553780a90"
+  },
+  {
+    "id": "S055",
+    "titre": "Translation G041–G043 : protocole et portée",
+    "date_source": "2026-10-17",
+    "nature": "Extrait de rapport",
+    "sha256": "b7c8ce2ab8c9e22bdd2dc56ae00a9662912b7834d42ff5fc6e40fbaedf6a0424"
+  },
+  {
+    "id": "S056",
+    "titre": "Quatre étoiles → désentrelacement → D34 : freeze retrouvé",
+    "date_source": "2026-10-19",
+    "nature": "Extraits de freeze et annotation séparée",
+    "sha256": "3932f5f293a28e93cf3607f1ef73434381f80deab6e82fff2bce999451568c47"
+  },
+  {
+    "id": "S057",
+    "titre": "Étoiles : illustrations natives et contrôles ciblés V1.2",
+    "date_source": "2026-10-20",
+    "nature": "Observation ciblée et rejeu arithmétique",
+    "sha256": "33d37b8fe4d36ed400b976e02c85a8ca87e77f42b6a3e06688085533096487cf"
+  }
+]

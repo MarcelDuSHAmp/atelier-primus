@@ -1,0 +1,77 @@
+[
+  {
+    "id": "EXT-ZZNIBLE",
+    "credit": "ZzNible",
+    "titre": "Cicada 3301 / Liber Primus — Reproducible Research Findings",
+    "url": "https://github.com/ZzNible/cicada3301-liber-primus-findings/blob/main/README.md",
+    "date_consultation": "2026-10-22",
+    "date_publication": "Non établie dans cette passe",
+    "git_blob_sha": "264cddf1f15b02fced5beabeb7b2df49ef93e4a4",
+    "verification": "README intégral consulté via GitHub ; attribution au pseudonyme du dépôt, sans certification du tout premier auteur du signal."
+  },
+  {
+    "id": "EXT-DUKOTAH",
+    "credit": "Dukotah et contributeurs du dépôt",
+    "titre": "Liber Primus — Findings",
+    "url": "https://github.com/Dukotah/cicada3301/blob/master/liber-primus/docs/FINDINGS.md",
+    "date_consultation": "2026-10-22",
+    "date_publication": "Le fichier annonce une mise à jour le 2026-06-17 ; première publication non établie",
+    "git_blob_sha": "3d28bd8e72987648aa578c1e4bcdb250533b1a5f",
+    "verification": "75 premières lignes consultées via GitHub ; crédit du dépôt et de ses propres campagnes, sans adoption de ses exclusions générales."
+  },
+  {
+    "id": "EXT-CICADASOLVERS",
+    "credit": "Communauté CicadaSolvers ; auteurs individuels à préciser",
+    "titre": "Liber Primus Cryptanalysis Briefing / QuickStart",
+    "url": "https://www.cicadasolvers.com/quickstart/",
+    "date_consultation": "2026-10-22",
+    "date_publication": "Non établie dans cette passe",
+    "verification": "Texte public consulté. Source communautaire de référence, pas preuve de la première découverte de chaque résultat."
+  },
+  {
+    "id": "EXT-G032",
+    "credit": "Communauté de solveurs, documentation réunie par CicadaSolvers",
+    "titre": "15.jpg Square",
+    "url": "https://www.cicadasolvers.com/wiki/liber-primus/lp2/15-jpg/15-jpg-square/",
+    "date_consultation": "2026-10-22",
+    "date_publication": "Non établie dans cette passe",
+    "verification": "Page et liste de renvois consultées ; les pages liées n’ont pas toutes été vérifiées. Auteur initial de la reconstruction non déterminé."
+  },
+  {
+    "id": "EXT-DJUBEI",
+    "credit": "Communauté de solveurs, documentation CicadaSolvers",
+    "titre": "Dis Legomenon",
+    "url": "https://www.cicadasolvers.com/wiki/liber-primus/dis-legomenon/",
+    "date_consultation": "2026-10-22",
+    "date_publication": "Non établie dans cette passe",
+    "verification": "La page décrit les deux occurrences de DJU–BEI ; auteur initial non déterminé."
+  },
+  {
+    "id": "ARCH-MORTLACH",
+    "credit": "Mortlach — attribution présente dans le nom de la transcription archivée",
+    "titre": "Liber primus in gematria values by mortlach.txt",
+    "sha256": "88ce49a218421a1e0481e69afcd7ed05380f2edf979bfdd5f3bcc7b4cc8ff98f",
+    "verification": "Octets du fichier consultés. Aucun crédit personnel supplémentaire ni date de première publication inférés."
+  },
+  {
+    "id": "ARCH-RUNES",
+    "credit": "Transcription secondaire reçue ; auteur initial non établi dans cette passe",
+    "titre": "runes-text.txt",
+    "sha256": "5e0003aa7f7dde3b238d17c5f964790dbf6bf9db5edacc4a5ec0bad81c6f4bce",
+    "verification": "Octets identifiés ; ne pas attribuer sa création au projet du seul fait de son utilisation."
+  },
+  {
+    "id": "ARCH-HISTO",
+    "credit": "Auteurs, témoins et compilateurs indiqués dans les pièces historiques",
+    "titre": "Sources S009, S042 et S043 du registre V1.2",
+    "verification": "Crédits locaux : Joel Eriksson/ClevCode ; micheloosterhof/cicada-2014 ; TheChosenHalfBlood ; William Blake ; Eric Hughes ; autres contributeurs cités dans chaque pièce. Les responsabilités de témoignage, archivage, œuvre et interprétation restent distinctes."
+  },
+  {
+    "id": "EXT-TOR-V2",
+    "credit": "Tor Project et contributeurs",
+    "titre": "Tor Rendezvous Specification, protocole v2 historique",
+    "url": "https://torproject.gitlab.io/torspec/rend-spec-v2.html",
+    "date_consultation": "2026-10-22",
+    "verification": "Sections 1.3 et 1.5 : identifiant de 80 bits, SHA-1 de clé RSA et encodage Base32."
+  }
+]

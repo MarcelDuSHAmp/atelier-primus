@@ -1,0 +1,603 @@
+[
+  {
+    "page": "G000",
+    "ensemble": "LP1",
+    "page_locale": 0,
+    "sha256": "184e6f9de8695d99435c2bef4fd7e304a8a0f704dbe04439fa8bf13c4da395a7",
+    "taille": 168876,
+    "fichier": "images/G000.jpg"
+  },
+  {
+    "page": "G001",
+    "ensemble": "LP1",
+    "page_locale": 1,
+    "sha256": "71f4bd03c692ede630091272597d2b18702184ed32fdd1977ef0ba7306632b46",
+    "taille": 1476614,
+    "fichier": "images/G001.jpg"
+  },
+  {
+    "page": "G002",
+    "ensemble": "LP1",
+    "page_locale": 2,
+    "sha256": "0297572bbc2d234f84df634c6f0474011ff5df66c2ce987c3bb7aa0c635799b4",
+    "taille": 175159,
+    "fichier": "images/G002.jpg"
+  },
+  {
+    "page": "G003",
+    "ensemble": "LP1",
+    "page_locale": 3,
+    "sha256": "b8b142f9b7854ec4f240e076cad03a98a2e3e9cf7c20f1da4fcde1ed25e3be3f",
+    "taille": 892759,
+    "fichier": "images/G003.jpg"
+  },
+  {
+    "page": "G004",
+    "ensemble": "LP1",
+    "page_locale": 4,
+    "sha256": "745c6a46f67de1e5a2a9ac76175c323af82c2432e3b7483a8dc6244f8de9478f",
+    "taille": 1223337,
+    "fichier": "images/G004.jpg"
+  },
+  {
+    "page": "G005",
+    "ensemble": "LP1",
+    "page_locale": 5,
+    "sha256": "2db94921ae5216d8a589890495fa5432446cd3227c45fbeb4934cbb0525112f7",
+    "taille": 673066,
+    "fichier": "images/G005.jpg"
+  },
+  {
+    "page": "G006",
+    "ensemble": "LP1",
+    "page_locale": 6,
+    "sha256": "913e26462e51942f49ca3ce2e94ef56c5fb65110814442dccc02b0d88af2c5ca",
+    "taille": 823807,
+    "fichier": "images/G006.jpg"
+  },
+  {
+    "page": "G007",
+    "ensemble": "LP1",
+    "page_locale": 7,
+    "sha256": "b50c1536ea1f30847e7875835991d52951bafb599fb1ab04eb78c5c6e6c2b468",
+    "taille": 823514,
+    "fichier": "images/G007.jpg"
+  },
+  {
+    "page": "G008",
+    "ensemble": "LP1",
+    "page_locale": 8,
+    "sha256": "f0edba1084df9983353c11544bbf711f94ed7649edbf94b426c9b78549b64557",
+    "taille": 638805,
+    "fichier": "images/G008.jpg"
+  },
+  {
+    "page": "G009",
+    "ensemble": "LP1",
+    "page_locale": 9,
+    "sha256": "975cda73bbf829b2775f25beb609d34fa429728b2f2a4ce863c129b10b005089",
+    "taille": 724577,
+    "fichier": "images/G009.jpg"
+  },
+  {
+    "page": "G010",
+    "ensemble": "LP1",
+    "page_locale": 10,
+    "sha256": "12ebfe421c129f2ef78d527c1630e358963da8d8dfdf9620eb977980d7967376",
+    "taille": 4240957,
+    "fichier": "images/G010.jpg"
+  },
+  {
+    "page": "G011",
+    "ensemble": "LP1",
+    "page_locale": 11,
+    "sha256": "7bd11a2c9f5b512e33c9db170756e3b34cc1e29eb405373eb94957383a61be7d",
+    "taille": 712733,
+    "fichier": "images/G011.jpg"
+  },
+  {
+    "page": "G012",
+    "ensemble": "LP1",
+    "page_locale": 12,
+    "sha256": "a5b58076e169f3f59c8a394dbef37da18226c9c4fff703df3be8dc95cf16291c",
+    "taille": 703428,
+    "fichier": "images/G012.jpg"
+  },
+  {
+    "page": "G013",
+    "ensemble": "LP1",
+    "page_locale": 13,
+    "sha256": "bef0fc4867c2363c835eb4f08029a1eba35c925e2f72659d7353cf8a91089e56",
+    "taille": 2070134,
+    "fichier": "images/G013.jpg"
+  },
+  {
+    "page": "G014",
+    "ensemble": "LP1",
+    "page_locale": 14,
+    "sha256": "de2bebe1d06421d94f3dd2b2b5f838ee4cdb5f51b07b14e880e0108f7b79c14e",
+    "taille": 625668,
+    "fichier": "images/G014.jpg"
+  },
+  {
+    "page": "G015",
+    "ensemble": "LP1",
+    "page_locale": 15,
+    "sha256": "f163903bec1236f1c89c96343d0bd1dee610b697c3ba82514651f04c5fbee4b9",
+    "taille": 426945,
+    "fichier": "images/G015.jpg"
+  },
+  {
+    "page": "G016",
+    "ensemble": "LP1",
+    "page_locale": 16,
+    "sha256": "984668c680c6089b91587ef6d9eb2a1df1d2b7ee8ab3837655d3933f2adcbfbe",
+    "taille": 485456,
+    "fichier": "images/G016.jpg"
+  },
+  {
+    "page": "G017",
+    "ensemble": "LP2",
+    "page_locale": 0,
+    "sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+    "taille": 695525,
+    "fichier": "images/G017.jpg"
+  },
+  {
+    "page": "G018",
+    "ensemble": "LP2",
+    "page_locale": 1,
+    "sha256": "f804fae06a68315eb6206158a2b34f55fe157c7d663fa961639fbe8dfc52a39f",
+    "taille": 667228,
+    "fichier": "images/G018.jpg"
+  },
+  {
+    "page": "G019",
+    "ensemble": "LP2",
+    "page_locale": 2,
+    "sha256": "74e955ebe248e6d7442e2d2cd3029951f258017987d5762f48e7897cf6611e34",
+    "taille": 595338,
+    "fichier": "images/G019.jpg"
+  },
+  {
+    "page": "G020",
+    "ensemble": "LP2",
+    "page_locale": 3,
+    "sha256": "1453ef27ea607c6ea378d6472c908e77c2881caba33c72d1893caddee8dc1117",
+    "taille": 599916,
+    "fichier": "images/G020.jpg"
+  },
+  {
+    "page": "G021",
+    "ensemble": "LP2",
+    "page_locale": 4,
+    "sha256": "72bea2bfcd4f1b8e2095f882811d0f294e329d4b1bfe68f8ed5ec726d0a1e9d6",
+    "taille": 676634,
+    "fichier": "images/G021.jpg"
+  },
+  {
+    "page": "G022",
+    "ensemble": "LP2",
+    "page_locale": 5,
+    "sha256": "bcef0a3b80532b25a013052ec4394ab47ab69ce675b5b3db59cbad044e7adabd",
+    "taille": 667716,
+    "fichier": "images/G022.jpg"
+  },
+  {
+    "page": "G023",
+    "ensemble": "LP2",
+    "page_locale": 6,
+    "sha256": "4c7dce370242c67a7b785828d75547c042717b221d9d565d7dd097834c7b25d7",
+    "taille": 556991,
+    "fichier": "images/G023.jpg"
+  },
+  {
+    "page": "G024",
+    "ensemble": "LP2",
+    "page_locale": 7,
+    "sha256": "91a726a7dd59c6caa4d736b9ce72ceba0a2fa827d6b69a2d4057562b9303636c",
+    "taille": 580968,
+    "fichier": "images/G024.jpg"
+  },
+  {
+    "page": "G025",
+    "ensemble": "LP2",
+    "page_locale": 8,
+    "sha256": "6b1026dfdfb447a5a76819883fe576254e8a47fdf1e97ecf1825166833bc6f00",
+    "taille": 612380,
+    "fichier": "images/G025.jpg"
+  },
+  {
+    "page": "G026",
+    "ensemble": "LP2",
+    "page_locale": 9,
+    "sha256": "b8b7ee73d51de45833b36d864cb1c9067432cb4efadcf6c319eaef94d52c929d",
+    "taille": 639920,
+    "fichier": "images/G026.jpg",
+    "transformation": "Retrait du seul APP1 ajouté de 4 478 octets ; empreinte canonique retrouvée, aucun réencodage JPEG."
+  },
+  {
+    "page": "G027",
+    "ensemble": "LP2",
+    "page_locale": 10,
+    "sha256": "1716e282c1d5e8a9ff911c01621e9b195d4728c7fa55ac857176a473eaba3239",
+    "taille": 618194,
+    "fichier": "images/G027.jpg"
+  },
+  {
+    "page": "G028",
+    "ensemble": "LP2",
+    "page_locale": 11,
+    "sha256": "26f0cb307a23dcb2adf03a70fb9c6da89746258a90fd9be5383b2757ab4aad30",
+    "taille": 609111,
+    "fichier": "images/G028.jpg"
+  },
+  {
+    "page": "G029",
+    "ensemble": "LP2",
+    "page_locale": 12,
+    "sha256": "6961f3f8eedba5b802fee9b40ad91fa604cd4e4394f9ba72853141ad71b19b21",
+    "taille": 609412,
+    "fichier": "images/G029.jpg"
+  },
+  {
+    "page": "G030",
+    "ensemble": "LP2",
+    "page_locale": 13,
+    "sha256": "3481daeed3ab2bea6effbe36eec22f74955bce87ca4b4ae8674be1d3f84ea08d",
+    "taille": 619368,
+    "fichier": "images/G030.jpg"
+  },
+  {
+    "page": "G031",
+    "ensemble": "LP2",
+    "page_locale": 14,
+    "sha256": "861037ea304b4d3b347cce18d97f25146f6f318cb748e59e6140d9eeaef6abd4",
+    "taille": 436699,
+    "fichier": "images/G031.jpg"
+  },
+  {
+    "page": "G032",
+    "ensemble": "LP2",
+    "page_locale": 15,
+    "sha256": "5543cfce96493b86eece3195b3f5ea6e779ff41551676600b0c2479fc18c0ec5",
+    "taille": 512272,
+    "fichier": "images/G032.jpg"
+  },
+  {
+    "page": "G033",
+    "ensemble": "LP2",
+    "page_locale": 16,
+    "sha256": "39780578c48d318310c3bccb0bc30e96adcb5b2de6e4a965000c55465375861d",
+    "taille": 550563,
+    "fichier": "images/G033.jpg"
+  },
+  {
+    "page": "G034",
+    "ensemble": "LP2",
+    "page_locale": 17,
+    "sha256": "f123b66eefa1b4409750c5ea3879bfe64728c6aa1e1398cb8fbd0fa8b1cf1f50",
+    "taille": 541530,
+    "fichier": "images/G034.jpg"
+  },
+  {
+    "page": "G035",
+    "ensemble": "LP2",
+    "page_locale": 18,
+    "sha256": "90fa414c464e86435bdb22f051f9670e886e3dd1c0b6d8954be94b86188da94b",
+    "taille": 541718,
+    "fichier": "images/G035.jpg"
+  },
+  {
+    "page": "G036",
+    "ensemble": "LP2",
+    "page_locale": 19,
+    "sha256": "b57ec6b12cb9a505eec6a77c64ddf63bf30a1bfb44dd5cdca35d900feed1b651",
+    "taille": 540260,
+    "fichier": "images/G036.jpg"
+  },
+  {
+    "page": "G037",
+    "ensemble": "LP2",
+    "page_locale": 20,
+    "sha256": "1ceef52570621785a021febff39003538f810179e5767ef5279a59c0c05c9985",
+    "taille": 535883,
+    "fichier": "images/G037.jpg"
+  },
+  {
+    "page": "G038",
+    "ensemble": "LP2",
+    "page_locale": 21,
+    "sha256": "c453ad16212b335a065069e9f755791b909225ed250b579eab205655e7a80c10",
+    "taille": 550964,
+    "fichier": "images/G038.jpg"
+  },
+  {
+    "page": "G039",
+    "ensemble": "LP2",
+    "page_locale": 22,
+    "sha256": "e232eb4649f89125d0edeab7022cbe189185d46ccbf0823fd964b6e71e9bafe7",
+    "taille": 512143,
+    "fichier": "images/G039.jpg"
+  },
+  {
+    "page": "G040",
+    "ensemble": "LP2",
+    "page_locale": 23,
+    "sha256": "d31a23cb3a2e50b505e1c468ffbb0106f5353f469bb5958b87ab929fc88decee",
+    "taille": 484095,
+    "fichier": "images/G040.jpg"
+  },
+  {
+    "page": "G041",
+    "ensemble": "LP2",
+    "page_locale": 24,
+    "sha256": "62148ef272d17bcedf5df30f6cc9e52df127113c18c1cf57ea92c75feedfce80",
+    "taille": 654761,
+    "fichier": "images/G041.jpg"
+  },
+  {
+    "page": "G042",
+    "ensemble": "LP2",
+    "page_locale": 25,
+    "sha256": "a7d6e597debff4f7c5b3516e1b02ca2e4fa5b37d972f567264ed2ec845013cff",
+    "taille": 643754,
+    "fichier": "images/G042.jpg"
+  },
+  {
+    "page": "G043",
+    "ensemble": "LP2",
+    "page_locale": 26,
+    "sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+    "taille": 677224,
+    "fichier": "images/G043.jpg"
+  },
+  {
+    "page": "G044",
+    "ensemble": "LP2",
+    "page_locale": 27,
+    "sha256": "c92c972f41dd038e136d8589aa7b113e268c36f2860c279cce712cd037cb3a8e",
+    "taille": 580041,
+    "fichier": "images/G044.jpg"
+  },
+  {
+    "page": "G045",
+    "ensemble": "LP2",
+    "page_locale": 28,
+    "sha256": "318bb587f4dcab11b4db7ba3b8bb13b7913ca79bb409e1c987595503a22e0522",
+    "taille": 542267,
+    "fichier": "images/G045.jpg"
+  },
+  {
+    "page": "G046",
+    "ensemble": "LP2",
+    "page_locale": 29,
+    "sha256": "6f769f266865ddb30b0cb34e82c664a87ba409f674dc52ad3af7c85be443fb5c",
+    "taille": 546105,
+    "fichier": "images/G046.jpg"
+  },
+  {
+    "page": "G047",
+    "ensemble": "LP2",
+    "page_locale": 30,
+    "sha256": "701b66d1fe98f730dadc5d7d8e1bc3b9a8e20547c1ffb423011f436037dba8b0",
+    "taille": 539780,
+    "fichier": "images/G047.jpg"
+  },
+  {
+    "page": "G048",
+    "ensemble": "LP2",
+    "page_locale": 31,
+    "sha256": "0cb60ca12b1bf5f9fc03026314018a0d5ee73f813ac86ca4197629c60f2cb80a",
+    "taille": 531046,
+    "fichier": "images/G048.jpg"
+  },
+  {
+    "page": "G049",
+    "ensemble": "LP2",
+    "page_locale": 32,
+    "sha256": "c0f778187a8e9ddbfc667a65929ac567430a2e38278a2022377984ac084e5f72",
+    "taille": 362637,
+    "fichier": "images/G049.jpg"
+  },
+  {
+    "page": "G050",
+    "ensemble": "LP2",
+    "page_locale": 33,
+    "sha256": "13ff4c8d8ab934032a001b8c1fda16433aa44a38dd7272b3ff0dd7ac8300c62d",
+    "taille": 525652,
+    "fichier": "images/G050.jpg"
+  },
+  {
+    "page": "G051",
+    "ensemble": "LP2",
+    "page_locale": 34,
+    "sha256": "6f1b4c04b64ee54c689478bd3986bb6ab8a3b81f48780562094e9f248e4e87f8",
+    "taille": 555050,
+    "fichier": "images/G051.jpg"
+  },
+  {
+    "page": "G052",
+    "ensemble": "LP2",
+    "page_locale": 35,
+    "sha256": "d713dd913d9b835ac61f298e8c0855f5093599e348edaedef964710db8664afa",
+    "taille": 574580,
+    "fichier": "images/G052.jpg"
+  },
+  {
+    "page": "G053",
+    "ensemble": "LP2",
+    "page_locale": 36,
+    "sha256": "3b54a31a9e796e2c01b4e80d46e1092dee2e1142a7c61873e282078e2c776cb9",
+    "taille": 511099,
+    "fichier": "images/G053.jpg"
+  },
+  {
+    "page": "G054",
+    "ensemble": "LP2",
+    "page_locale": 37,
+    "sha256": "cee96d7e71b7de4d4e57237faacefad791229c153202e8224e4bedda45fb8f43",
+    "taille": 503830,
+    "fichier": "images/G054.jpg"
+  },
+  {
+    "page": "G055",
+    "ensemble": "LP2",
+    "page_locale": 38,
+    "sha256": "aec1898f599f57265d6422f3082a481db94a27f62230affbadee595d05077f8c",
+    "taille": 519224,
+    "fichier": "images/G055.jpg"
+  },
+  {
+    "page": "G056",
+    "ensemble": "LP2",
+    "page_locale": 39,
+    "sha256": "d1b7ea5a6ffb79709753e3565d1d46e05edbe3d82ca70c3ed6065d46b131bd00",
+    "taille": 541379,
+    "fichier": "images/G056.jpg"
+  },
+  {
+    "page": "G057",
+    "ensemble": "LP2",
+    "page_locale": 40,
+    "sha256": "3f5af995b39f94f268d4aa94825a10f2429f4a3affa1921a7f627e6d1bfcfb69",
+    "taille": 746355,
+    "fichier": "images/G057.jpg"
+  },
+  {
+    "page": "G058",
+    "ensemble": "LP2",
+    "page_locale": 41,
+    "sha256": "134052dd794a7d11185cc6d942de3f9839bd2b767e0845b0f059f711b269bee2",
+    "taille": 785555,
+    "fichier": "images/G058.jpg"
+  },
+  {
+    "page": "G059",
+    "ensemble": "LP2",
+    "page_locale": 42,
+    "sha256": "e523427112ec6259e97d1711f0420469d961324dedb7dc4eac67ecd9543729f6",
+    "taille": 788795,
+    "fichier": "images/G059.jpg"
+  },
+  {
+    "page": "G060",
+    "ensemble": "LP2",
+    "page_locale": 43,
+    "sha256": "dc4cf22565ccabb2b3d366eb8bd6b74520e3169133a7bd725373aad2f49ac415",
+    "taille": 792166,
+    "fichier": "images/G060.jpg"
+  },
+  {
+    "page": "G061",
+    "ensemble": "LP2",
+    "page_locale": 44,
+    "sha256": "463cf95229ccb6ae179cdd0fce2338df9f616da0db38813573a9fb1706846208",
+    "taille": 796475,
+    "fichier": "images/G061.jpg"
+  },
+  {
+    "page": "G062",
+    "ensemble": "LP2",
+    "page_locale": 45,
+    "sha256": "898b614af5473937a9abfcdc618160ba80ea44b07d4a479da4526be6e33f28d9",
+    "taille": 772704,
+    "fichier": "images/G062.jpg"
+  },
+  {
+    "page": "G063",
+    "ensemble": "LP2",
+    "page_locale": 46,
+    "sha256": "05538b8ebf9ed2a5716d94284a753dd26582a0227f139cc4a27dc3f07b15d301",
+    "taille": 782516,
+    "fichier": "images/G063.jpg"
+  },
+  {
+    "page": "G064",
+    "ensemble": "LP2",
+    "page_locale": 47,
+    "sha256": "08ed86be5561c09ce5c773d8001b290cc505436db89637d66ea0f5a15818d1c8",
+    "taille": 792027,
+    "fichier": "images/G064.jpg"
+  },
+  {
+    "page": "G065",
+    "ensemble": "LP2",
+    "page_locale": 48,
+    "sha256": "341da69e9d579528dd17b7659e23de210720429111dc76c512843eb1983100ea",
+    "taille": 803285,
+    "fichier": "images/G065.jpg"
+  },
+  {
+    "page": "G066",
+    "ensemble": "LP2",
+    "page_locale": 49,
+    "sha256": "aa3f89156756edf8b796a470a14a3db96516ad2fedf1ed98ccabc1a1cddc0335",
+    "taille": 651504,
+    "fichier": "images/G066.jpg"
+  },
+  {
+    "page": "G067",
+    "ensemble": "LP2",
+    "page_locale": 50,
+    "sha256": "bd6d4a3678fa37197bd43c58861273dc59604b5b68dfa20de1ec13f0704be776",
+    "taille": 581983,
+    "fichier": "images/G067.jpg"
+  },
+  {
+    "page": "G068",
+    "ensemble": "LP2",
+    "page_locale": 51,
+    "sha256": "2b9d60f62b2bc65d040f7ae1bc0960d5a44ca251d2730d049a618074a83e208b",
+    "taille": 661727,
+    "fichier": "images/G068.jpg"
+  },
+  {
+    "page": "G069",
+    "ensemble": "LP2",
+    "page_locale": 52,
+    "sha256": "d34a38f51759284f68fb916122ed6774c3b498dddb5537929355ac674453a0f3",
+    "taille": 792979,
+    "fichier": "images/G069.jpg"
+  },
+  {
+    "page": "G070",
+    "ensemble": "LP2",
+    "page_locale": 53,
+    "sha256": "4ec7293ba72bd52384787646d204c8a68fefaf2d22673c40d27f23812d424548",
+    "taille": 753790,
+    "fichier": "images/G070.jpg"
+  },
+  {
+    "page": "G071",
+    "ensemble": "LP2",
+    "page_locale": 54,
+    "sha256": "dbc2cfca46a150689e60ea83015dcd54ace81245711fefe114d6076b96412ec4",
+    "taille": 774295,
+    "fichier": "images/G071.jpg"
+  },
+  {
+    "page": "G072",
+    "ensemble": "LP2",
+    "page_locale": 55,
+    "sha256": "a80191592add93a86ed3868f9e4e6ba3944ec20c9ffccc7d3e221b461344beba",
+    "taille": 614928,
+    "fichier": "images/G072.jpg"
+  },
+  {
+    "page": "G073",
+    "ensemble": "LP2",
+    "page_locale": 56,
+    "sha256": "a4c1c9ae1246c3197fc1d7bd0155cbc97f60d4bba84a104d45f180feab1814dc",
+    "taille": 389813,
+    "fichier": "images/G073.jpg"
+  },
+  {
+    "page": "G074",
+    "ensemble": "LP2",
+    "page_locale": 57,
+    "sha256": "1dabc100ddbf1fc49715219636984eb6ad96a2bd8035e196c12e66db77a1077b",
+    "taille": 318076,
+    "fichier": "images/G074.jpg"
+  }
+]

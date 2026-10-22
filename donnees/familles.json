@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "nom": "Sources et conventions",
+    "path": "recherches/01-sources-et-conventions"
+  },
+  {
+    "id": "02",
+    "nom": "Apprentissage et précédents",
+    "path": "recherches/02-apprentissage-et-precedents"
+  },
+  {
+    "id": "03",
+    "nom": "ASTRA et cryptanalyse",
+    "path": "recherches/03-astra-et-cryptanalyse"
+  },
+  {
+    "id": "04",
+    "nom": "Images, dessins et marqueurs",
+    "path": "recherches/04-images-dessins-et-marqueurs"
+  },
+  {
+    "id": "05",
+    "nom": "M6, liste et PRE64",
+    "path": "recherches/05-m6-liste-et-pre64"
+  },
+  {
+    "id": "06",
+    "nom": "F0, familles D et routage",
+    "path": "recherches/06-f0-familles-d-et-routage"
+  },
+  {
+    "id": "07",
+    "nom": "R4 et lecteur spatial",
+    "path": "recherches/07-r4-et-lecteur-spatial"
+  },
+  {
+    "id": "08",
+    "nom": "Raccords multi-supports",
+    "path": "recherches/08-raccords-multi-supports"
+  },
+  {
+    "id": "09",
+    "nom": "SEEK, SHIFT et objets de sortie",
+    "path": "recherches/09-seek-shift-et-objets-de-sortie"
+  },
+  {
+    "id": "10",
+    "nom": "Contre-épreuves et corrections",
+    "path": "recherches/10-contre-epreuves-et-corrections"
+  },
+  {
+    "id": "11",
+    "nom": "Contexte et communauté",
+    "path": "recherches/11-contexte-et-communaute"
+  },
+  {
+    "id": "12",
+    "nom": "Publication et lacunes",
+    "path": "recherches/12-publication-et-lacunes"
+  }
+]

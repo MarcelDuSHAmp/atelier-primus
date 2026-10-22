@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "SRC-001",
+    "titre": "Repère global G000–G074",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "SRC-002",
+    "titre": "75 JPEG : autorité et couverture",
+    "categorie": "OBJET_OU_RESULTAT_COMMUNAUTAIRE",
+    "antecedents": "Matériel publié sous le nom Cicada 3301, puis conservé, transcrit et étudié par la communauté.",
+    "apport_projet": "Indexation, contrôle ou utilisation des copies reçues. Aucune appropriation de la création des pages, de Gematria Primus ou du texte déjà déchiffré de G073.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "SRC-003",
+    "titre": "Transcription secondaire LP2",
+    "categorie": "DONNEES_TIERS_ET_AUDIT_DU_PROJET",
+    "antecedents": "Transcriptions secondaires reçues, dont Mortlach et runes-text.txt ; séparation des mots et retours à la ligne héritée des sources.",
+    "apport_projet": "Audit des unités, tailles ou omissions dans les versions reçues. Aucun crédit de création de la transcription n’est transféré au projet.",
+    "sources_externes": [
+      "ARCH-MORTLACH",
+      "ARCH-RUNES"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "SRC-004",
+    "titre": "Page G067 absente du flux runique",
+    "categorie": "DONNEES_TIERS_ET_AUDIT_DU_PROJET",
+    "antecedents": "Transcriptions secondaires reçues, dont Mortlach et runes-text.txt ; séparation des mots et retours à la ligne héritée des sources.",
+    "apport_projet": "Audit des unités, tailles ou omissions dans les versions reçues. Aucun crédit de création de la transcription n’est transféré au projet.",
+    "sources_externes": [
+      "ARCH-MORTLACH",
+      "ARCH-RUNES"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "SRC-005",
+    "titre": "Gematria Primus : deux nombres distincts",
+    "categorie": "OBJET_OU_RESULTAT_COMMUNAUTAIRE",
+    "antecedents": "Matériel publié sous le nom Cicada 3301, puis conservé, transcrit et étudié par la communauté.",
+    "apport_projet": "Indexation, contrôle ou utilisation des copies reçues. Aucune appropriation de la création des pages, de Gematria Primus ou du texte déjà déchiffré de G073.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "SRC-006",
+    "titre": "Groupe physique ≠ mot lexical",
+    "categorie": "DONNEES_TIERS_ET_AUDIT_DU_PROJET",
+    "antecedents": "Transcriptions secondaires reçues, dont Mortlach et runes-text.txt ; séparation des mots et retours à la ligne héritée des sources.",
+    "apport_projet": "Audit des unités, tailles ou omissions dans les versions reçues. Aucun crédit de création de la transcription n’est transféré au projet.",
+    "sources_externes": [
+      "ARCH-MORTLACH",
+      "ARCH-RUNES"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "SRC-007",
+    "titre": "G026 : ajout EXIF de 4478 octets",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "SRC-008",
+    "titre": "F0 retenu et variantes conservées",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "SRC-009",
+    "titre": "Source, copie, calcul et interprétation",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "SRC-010",
+    "titre": "Quatre tailles de corpus à ne pas fusionner",
+    "categorie": "DONNEES_TIERS_ET_AUDIT_DU_PROJET",
+    "antecedents": "Transcriptions secondaires reçues, dont Mortlach et runes-text.txt ; séparation des mots et retours à la ligne héritée des sources.",
+    "apport_projet": "Audit des unités, tailles ou omissions dans les versions reçues. Aucun crédit de création de la transcription n’est transféré au projet.",
+    "sources_externes": [
+      "ARCH-MORTLACH",
+      "ARCH-RUNES"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LP1-001",
+    "titre": "G001 : lecture inversée",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-002",
+    "titre": "G003–G004 : DIVINITY et continuité",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-003",
+    "titre": "Sélection des F HOLD/CONSUME",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Lecture HOLD/CONSUME et tests de sélection des F dans le projet, à partir de l’interrupteur et du déchiffrement DIVINITY déjà connus. Le masque transféré n’est pas établi indépendamment.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-004",
+    "titre": "G005 : carré mixte et demi-tour",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-005",
+    "titre": "G016 : carré de constante 3301",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-006",
+    "titre": "G014–G015 : clé circonférence",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-007",
+    "titre": "G073 : lecture par flux de premiers",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-008",
+    "titre": "G005 : JPEG, centre hexadécimal, JPEG inversé",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-009",
+    "titre": "G010 contient G011–G013",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-010",
+    "titre": "Chaînes historiques XOR, compression, retournement",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-011",
+    "titre": "Questionnaire, koan et serveur TCP",
+    "categorie": "REPRISE_COMMUNAUTAIRE_ET_RELECTURE",
+    "antecedents": "Méthodes des pages résolues et chaînes historiques documentées par la communauté. CicadaSolvers sert de référence générale ; les attributions individuelles restent à vérifier dans les pièces historiques.",
+    "apport_projet": "Reproduction, audit ou reformulation pédagogique dans ATELIER PRIMUS. Une interprétation nouvelle du rôle du geste doit être distinguée du procédé historique.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Solveurs historiques : attribution individuelle non établie ici ; commentaire et rejeu du projet selon les sources internes."
+  },
+  {
+    "id": "LP1-012",
+    "titre": "LP1 apprendrait à construire les lectures de LP2",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-001",
+    "titre": "HEAD24 : 70 faux négatifs identifiés",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-002",
+    "titre": "B2 : réparation de l’alignement",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-003",
+    "titre": "B2 : fond LP2 et limite de couverture",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-004",
+    "titre": "Six familles de lecteurs R4",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-005",
+    "titre": "Contrôles positifs de la grande campagne",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-006",
+    "titre": "Rareté des répétitions immédiates",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Anomalies de répétition documentées par les sources communautaires citées. Leur consultation ne démontre pas que chaque code ou protocole du projet provient de ces dépôts.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-007",
+    "titre": "CP3/CP4 : différences et modèle avec mémoire",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Anomalies de répétition documentées par les sources communautaires citées. Leur consultation ne démontre pas que chaque code ou protocole du projet provient de ces dépôts.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-008",
+    "titre": "CP4 : horloges matérielles et F0",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Anomalies de répétition documentées par les sources communautaires citées. Leur consultation ne démontre pas que chaque code ou protocole du projet provient de ces dépôts.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-009",
+    "titre": "CP4 : tirage sans répétition dans des blocs",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Anomalies de répétition documentées par les sources communautaires citées. Leur consultation ne démontre pas que chaque code ou protocole du projet provient de ces dépôts.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-010",
+    "titre": "Réétiquetage et transposition conservent l’entropie",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-011",
+    "titre": "CP5 : échappement D 0, D 1",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-012",
+    "titre": "CP5 : codage arithmétique base 28",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-013",
+    "titre": "ÉTAU : 384 machines 32 × 8",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-014",
+    "titre": "ÉTAU : SPECIAL et ponctuation",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-015",
+    "titre": "Reset indépendant uniforme après un mot",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Anomalies de répétition documentées par les sources communautaires citées. Leur consultation ne démontre pas que chaque code ou protocole du projet provient de ces dépôts.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-016",
+    "titre": "Distribution des déplacements selon les frontières",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Anomalies de répétition documentées par les sources communautaires citées. Leur consultation ne démontre pas que chaque code ou protocole du projet provient de ces dépôts.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-017",
+    "titre": "Resets synthétiques des commandes 29/30/31",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Problèmes, corpus et méthodes antérieurs décrits par les rapports. Les campagnes d’autres équipes ne sont pas comptées dans nos essais.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-018",
+    "titre": "Lag-5 : signal, pas période de clé",
+    "categorie": "RESULTAT_PUBLIE_ET_REPRODUCTION",
+    "antecedents": "Signal lag-5 publié notamment par ZzNible ; le déficit de répétitions adjacentes est également documenté dans les travaux communautaires.",
+    "apport_projet": "Reproduction conditionnelle et examens complémentaires consignés dans nos rapports. La découverte initiale du signal ne nous est pas attribuée.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-019",
+    "titre": "Concentration lag-5 par identité",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Anomalies de répétition documentées par les sources communautaires citées. Leur consultation ne démontre pas que chaque code ou protocole du projet provient de ces dépôts.",
+    "apport_projet": "Protocole, exécution ou analyse rapporté dans la pièce citée ; vérifier son statut EXÉCUTÉ/BLOQUÉ et la provenance du code avant d’en revendiquer l’originalité.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-020",
+    "titre": "RAKE T 1–T 5 bloqué",
+    "categorie": "TEST_OU_ANALYSE_DANS_LE_PROJET",
+    "antecedents": "Anomalies de répétition documentées par les sources communautaires citées. Leur consultation ne démontre pas que chaque code ou protocole du projet provient de ces dépôts.",
+    "apport_projet": "Protocole et constat de blocage de cette exécution. Aucun résultat T1–T5 ne lui est attribué ; les campagnes exécutées sont citées séparément dans la mise à jour lag-5.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "AST-021",
+    "titre": "Pourquoi explorer une lecture de données",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Anomalies de répétition documentées par les sources communautaires citées. Leur consultation ne démontre pas que chaque code ou protocole du projet provient de ces dépôts.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [
+      "EXT-ZZNIBLE",
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-001",
+    "titre": "Niveaux, contraste, négatif et seuil",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-002",
+    "titre": "Audit tonal des 75 images",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-003",
+    "titre": "Arbres G049 et G072",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-004",
+    "titre": "Cinq sites pâles/noirs G057–G072",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-005",
+    "titre": "Lire les sites comme 01101",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-006",
+    "titre": "Insectes, rotations, miroirs et translations",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-007",
+    "titre": "Cinq points G024/G040/G073",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-008",
+    "titre": "Coder les orientations 5/26/20",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-009",
+    "titre": "R10/R11/R13/R23 : 67 motifs documentés",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-010",
+    "titre": "Marqueurs comme changements de représentation",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-011",
+    "titre": "Quatre étoiles par ornement ailé — G041–G043",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-012",
+    "titre": "Séparer deux voies en G041",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-013",
+    "titre": "DJU–BEI : deux occurrences exactes",
+    "categorie": "REPRISE_D_UN_CONSTAT_COMMUNAUTAIRE",
+    "antecedents": "Les deux occurrences de DJU–BEI sont connues de la communauté et documentées par CicadaSolvers.",
+    "apport_projet": "Rejeu/localisation de ce constat pour VIS-013 ; les fonctions, adresses ou raccords additionnels des autres fiches sont des essais du projet, dont l’originalité n’est pas établie.",
+    "sources_externes": [
+      "EXT-DJUBEI",
+      "EXT-CICADASOLVERS"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-014",
+    "titre": "DJU–BEI comme rappel ou retour",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Les deux occurrences de DJU–BEI sont connues de la communauté et documentées par CicadaSolvers.",
+    "apport_projet": "Rejeu/localisation de ce constat pour VIS-013 ; les fonctions, adresses ou raccords additionnels des autres fiches sont des essais du projet, dont l’originalité n’est pas établie.",
+    "sources_externes": [
+      "EXT-DJUBEI",
+      "EXT-CICADASOLVERS"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-015",
+    "titre": "BEI→45 et clés DJU–BEI",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Les deux occurrences de DJU–BEI sont connues de la communauté et documentées par CicadaSolvers.",
+    "apport_projet": "Rejeu/localisation de ce constat pour VIS-013 ; les fonctions, adresses ou raccords additionnels des autres fiches sont des essais du projet, dont l’originalité n’est pas établie.",
+    "sources_externes": [
+      "EXT-DJUBEI",
+      "EXT-CICADASOLVERS"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-016",
+    "titre": "G072 : ensemble de rappels et écarts 5/8/13",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Les deux occurrences de DJU–BEI sont connues de la communauté et documentées par CicadaSolvers.",
+    "apport_projet": "Rejeu/localisation de ce constat pour VIS-013 ; les fonctions, adresses ou raccords additionnels des autres fiches sont des essais du projet, dont l’originalité n’est pas établie.",
+    "sources_externes": [
+      "EXT-DJUBEI",
+      "EXT-CICADASOLVERS"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-017",
+    "titre": "Cartouches et emblèmes G050–G056",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-018",
+    "titre": "Adressage direct rune ou lettre latine",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-019",
+    "titre": "G017–G019 : quatre petits points par croix, dont un clair",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-020",
+    "titre": "G017 versus G018/G019 : différences du décor et infinis",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-021",
+    "titre": "Points clairs → six glyphes par projection horizontale",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-022",
+    "titre": "Rotation des points autour des croisements : transfert non établi",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-023",
+    "titre": "Couronnes et rayons très pâles autour des petits disques",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-024",
+    "titre": "Couronnes : contrôles JPEG, lissage et agrandissement",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-025",
+    "titre": "Micro-résidus des croix : six captures et décodage JPEG",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-026",
+    "titre": "Atlas résiduel des 75 pages : couche peu visible",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-027",
+    "titre": "Gris du texte : témoin de reconstruction binaire+JPEG",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-028",
+    "titre": "Superposition par hampe : contrôle sans nouveau texte",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "VIS-029",
+    "titre": "Translation des motifs : conserver l’orientation, pas un demi-tour",
+    "categorie": "OBSERVATION_OU_TEST_DANS_LE_PROJET",
+    "antecedents": "Images de Liber Primus et analyses graphiques communautaires antérieures ; les gestes miroir, rotation, superposition et seuil ne sont pas revendiqués comme inventions.",
+    "apport_projet": "Observation, mesure ou essai décrit par cette fiche. L’antériorité de ce résultat précis n’est pas établie par un simple inventaire des images.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "M6-001",
+    "titre": "M6 : PRE → U1…U5 → POST",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "M6-002",
+    "titre": "Longueurs complètes U1–U5",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "M6-003",
+    "titre": "PRE64 : 64 mots,292 runes",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "M6-004",
+    "titre": "Colonne dérivée de 24 runes",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "M6-005",
+    "titre": "U1–U5 : comportements, états ou instructions ?",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "M6-006",
+    "titre": "POST immédiat et terminal",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "M6-007",
+    "titre": "Paires U1/U5 et U2/U4",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "M6-008",
+    "titre": "M6 → cinq fonctions de M7",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "M6-009",
+    "titre": "U3 terminal 30 et fin G068",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-001",
+    "titre": "F0 : 256 octets disposés 32 × 8",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-002",
+    "titre": "high3, low5 et familles D",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-003",
+    "titre": "HADDR et G",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-004",
+    "titre": "16 SPECIAL, G032 et fenêtre[6,7,4]",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-005",
+    "titre": "D34 : quatre octets internes",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-006",
+    "titre": "BUFFER S199 → inversion de champs 230",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-007",
+    "titre": "D36 : intervalle de 36 cellules",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-008",
+    "titre": "Quartet de D36 vers BODY36",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-009",
+    "titre": "Fenêtre 212–247 : BODY36",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-010",
+    "titre": "35 sorties ordinaires puis D33",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-011",
+    "titre": "35 octets produits avant D33",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-012",
+    "titre": "D33 : événement de valeur 126",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-013",
+    "titre": "198 →156 : RETOUR de valeur",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-014",
+    "titre": "254 →192 →126",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-015",
+    "titre": "245 →18 →125 →121",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-016",
+    "titre": "[A, B, C] →[B, C, D] : registre glissant",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-017",
+    "titre": "Itinéraires F0 vers 73/74",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "F0-018",
+    "titre": "Les familles D sont-elles des états actifs ?",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-001",
+    "titre": "G032 : parcours 16 reconstruit",
+    "categorie": "REPRODUCTION_D_UN_RESULTAT_COMMUNAUTAIRE",
+    "antecedents": "G032, appelée 15.jpg dans LP2, possède une reconstruction numérique déjà documentée par la communauté.",
+    "apport_projet": "Rejeu explicite des 16 cases et de la convention d’ordre ; essais ultérieurs sur R4 ou SPECIAL à attribuer séparément. La recette G032 n’est pas revendiquée comme notre découverte.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS",
+      "EXT-G032"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Premier auteur de la reconstruction non déterminé ; référence communautaire CicadaSolvers."
+  },
+  {
+    "id": "R4-002",
+    "titre": "Noyau RIGHT/RIGHT",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-003",
+    "titre": "R4 : 390 runes,86 mots",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-004",
+    "titre": "3 ×(CALL+16+7)+14",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-005",
+    "titre": "Trois BODY16 →198/254/154",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-006",
+    "titre": "AND des trois sorties →130",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-007",
+    "titre": "29 120 lecteurs d’extrémités",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-008",
+    "titre": "Résumer en tags perd de l’information",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-009",
+    "titre": "Unicité ne signifie pas rareté globale",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-010",
+    "titre": "Trois TRAILER7 de R4",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-011",
+    "titre": "TAIL14 : fermeture candidate",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-012",
+    "titre": "Ablation des 512 états entrants",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-013",
+    "titre": "35 mots résiduels R4",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-014",
+    "titre": "G071 : 35 mots/157 runes",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-015",
+    "titre": "Clause rouge de clôture G070",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "R4-016",
+    "titre": "Ce que le lecteur ne lit pas",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-001",
+    "titre": "Centre G005 →80",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-002",
+    "titre": "Centre G016 →245 et croix D36/D37",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-003",
+    "titre": "G023 : 144 →préfixe →245",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-004",
+    "titre": "G068 : 80+247 →ANDING",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-005",
+    "titre": "G059 : 80+199 →D36",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-006",
+    "titre": "G040 : 245 →130",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-007",
+    "titre": "G020 : titre de 16 runes →144",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-008",
+    "titre": "Seize portions G020–G024 →230→80",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-009",
+    "titre": "Seize pages G057–G072 →151",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-010",
+    "titre": "Paquet 409/245/168 →80",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-011",
+    "titre": "Coda 14 G024 : 189 et 409",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-012",
+    "titre": "G068/G043/G064 : trois continuations locales",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-013",
+    "titre": "ST + ANDING →STANDING",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "LNK-014",
+    "titre": "Vertical →G024 →G073",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-001",
+    "titre": "G073 : page à empreinte donnée",
+    "categorie": "OBJET_OU_RESULTAT_COMMUNAUTAIRE",
+    "antecedents": "Matériel publié sous le nom Cicada 3301, puis conservé, transcrit et étudié par la communauté.",
+    "apport_projet": "Indexation, contrôle ou utilisation des copies reçues. Aucune appropriation de la création des pages, de Gematria Primus ou du texte déjà déchiffré de G073.",
+    "sources_externes": [
+      "EXT-CICADASOLVERS"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-002",
+    "titre": "(112,147) →G054",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-003",
+    "titre": "READ 200 et footer 168",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-004",
+    "titre": "Exemple candidat de rotation 6",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-005",
+    "titre": "X16 : 16 octets de G054",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-006",
+    "titre": "Export G054 : djg3lc3zrigi4fwy",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-007",
+    "titre": "48 bits retirés de X16",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-008",
+    "titre": "Formule directe de l’export",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-009",
+    "titre": "Export des 16 SPECIAL : 2h6vn7o256dtvsfp",
+    "categorie": "HYPOTHESE_OU_RACCORD_DANS_LE_PROJET",
+    "antecedents": "Objets, recettes et résultats cités dans les dépendances de la fiche.",
+    "apport_projet": "Assemblage ou interprétation proposé dans les rapports du projet. Hypothèse locale, sans priorité d’invention démontrée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-010",
+    "titre": "Ordres physiques concurrents",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-011",
+    "titre": "Contrôles bornés contre G073",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-012",
+    "titre": "Trace indépendante attendue",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-013",
+    "titre": "G035 : échec du transfert uniforme",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-014",
+    "titre": "G026 : 150 prédit,248 observé",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-015",
+    "titre": "RESTORE 156 ne sélectionne pas la prochaine cible",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "OUT-016",
+    "titre": "Pas encore d’objet cible reconnu",
+    "categorie": "ANALYSE_CONSIGNEE_DANS_LE_PROJET",
+    "antecedents": "Les entrées, méthodes et pièces citées restent créditées à leurs auteurs. La chaîne d’inspiration complète de cette fiche n’est pas encore reconstituée.",
+    "apport_projet": "Analyse documentée dans les sources de cette fiche ; la présence dans le dossier ne démontre pas que le projet est le premier auteur de l’idée.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-001",
+    "titre": "φ(230)=88, pas 172",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-002",
+    "titre": "Ancien retour 212→D32 invalidé",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-003",
+    "titre": "G(112) : 144 ancien,120 retenu",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-004",
+    "titre": "IO : une rune oubliée dans LP1 reconstruit",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-005",
+    "titre": "U5 : 112+17 ; départ 83, non 66",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-006",
+    "titre": "64→67 motifs : ajout des petits R11",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-007",
+    "titre": "Trois lignes achevées n’est pas trois lignes occupées",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-008",
+    "titre": "Collisions SHIFT/HERE et WEB/ROUTE",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-009",
+    "titre": "Contrôles préservés,6912 exports différents",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-010",
+    "titre": "Mutation synthétique conservant les contrôles",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-011",
+    "titre": "Ancien F0 : 241+15 contre 240+16",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "ERR-012",
+    "titre": "Archives : résumés populaires et fichiers manquants",
+    "categorie": "CORRECTION_OU_CONTRE_EPREUVE_DU_PROJET",
+    "antecedents": "Modèle antérieur et entrées désignés par les sources de cette fiche.",
+    "apport_projet": "Correction, comparaison de versions ou contre-épreuve documentée. Créditer séparément l’auteur du modèle corrigé et celui du contrôle ; ne pas présenter une correction arithmétique comme une invention mathématique.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "CTX-001",
+    "titre": "Vie privée, chiffrement et initiation",
+    "categorie": "CONTEXTE_ET_SOURCES_TIERS",
+    "antecedents": "Auteurs des œuvres, témoignages et analyses conservés dans les pièces S009/S028/S042/S043 selon la fiche.",
+    "apport_projet": "Lecture, synthèse ou proposition de rapprochement. Les œuvres, images et interprétations tierces sont attribuées séparément ; auteur non identifié reste « à compléter ».",
+    "sources_externes": [
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "CTX-002",
+    "titre": "Blake : circonférence, énergie, livre",
+    "categorie": "CONTEXTE_ET_SOURCES_TIERS",
+    "antecedents": "Auteurs des œuvres, témoignages et analyses conservés dans les pièces S009/S028/S042/S043 selon la fiche.",
+    "apport_projet": "Lecture, synthèse ou proposition de rapprochement. Les œuvres, images et interprétations tierces sont attribuées séparément ; auteur non identifié reste « à compléter ».",
+    "sources_externes": [
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "CTX-003",
+    "titre": "Antériorité des regards graphiques",
+    "categorie": "CONTEXTE_ET_SOURCES_TIERS",
+    "antecedents": "Auteurs des œuvres, témoignages et analyses conservés dans les pièces S009/S028/S042/S043 selon la fiche.",
+    "apport_projet": "Lecture, synthèse ou proposition de rapprochement. Les œuvres, images et interprétations tierces sont attribuées séparément ; auteur non identifié reste « à compléter ».",
+    "sources_externes": [
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "CTX-004",
+    "titre": "Dukotah et les registres communautaires",
+    "categorie": "REVUE_DE_TRAVAUX_TIERS",
+    "antecedents": "Dukotah et contributeurs : dépôt, instrumentation et bilans de leurs propres campagnes.",
+    "apport_projet": "Comparaison critique des résultats publiés ; aucune inclusion de leurs volumes d’essais dans nos campagnes.",
+    "sources_externes": [
+      "EXT-DUKOTAH"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "CTX-005",
+    "titre": "Messages signés et origine des pièces",
+    "categorie": "CONTEXTE_ET_SOURCES_TIERS",
+    "antecedents": "Auteurs des œuvres, témoignages et analyses conservés dans les pièces S009/S028/S042/S043 selon la fiche.",
+    "apport_projet": "Lecture, synthèse ou proposition de rapprochement. Les œuvres, images et interprétations tierces sont attribuées séparément ; auteur non identifié reste « à compléter ».",
+    "sources_externes": [
+      "ARCH-HISTO"
+    ],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "PUB-001",
+    "titre": "Registre maître V1 : périmètre borné",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "PUB-002",
+    "titre": "Mission G041–G043 signalée",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "PUB-003",
+    "titre": "Recherche d’archives externes signalée",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "PUB-004",
+    "titre": "Campagnes anciennes : rapport seul",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "PUB-005",
+    "titre": "Contrôler les fausses réplications",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "PUB-006",
+    "titre": "Réfutation locale avec identifiant stable",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "PUB-007",
+    "titre": "Dater découverte, gel, rejeu et publication",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "PUB-008",
+    "titre": "Régions sans fiche : couverture inconnue",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  },
+  {
+    "id": "PUB-009",
+    "titre": "Texte, hybride ou programme : trois modèles ouverts",
+    "categorie": "CONVENTION_OU_SYNTHESE_DU_PROJET",
+    "antecedents": "Objets et résultats des sources citées ; méthodes générales de documentation, d’indexation et de vérification.",
+    "apport_projet": "Choix de présentation, convention ou organisation appliqué dans ATELIER PRIMUS. Ce n’est pas une revendication de découverte du contenu du livre.",
+    "sources_externes": [],
+    "originalite": "NON ÉTABLIE — aucune priorité mondiale revendiquée.",
+    "auteur_precis": "Contribution du projet et de ses agents selon le rapport ; auteur initial de l’idée à compléter si non indiqué."
+  }
+]

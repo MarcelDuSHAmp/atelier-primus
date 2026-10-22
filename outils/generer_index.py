@@ -3,6 +3,8 @@ from pathlib import Path
 import html,json,os,re
 ROOT=Path(__file__).resolve().parent.parent
 E=html.escape
+architecture=json.loads((ROOT/'architecture/modele.json').read_text())
+architecture_links={c['path']:c['id'] for c in architecture['chapters']}
 def md(text,prefix='',standalone=False,render_images=False):
  def inline(s):
   s=E(s)
@@ -18,6 +20,11 @@ def md(text,prefix='',standalone=False,render_images=False):
    if raw.startswith(('https://','http://')):return '<a href="'+E(raw,quote=True)+'">'+title+'</a>'
    if standalone:return title+' <small>['+target+']</small>'
    if raw=='PARCOURS_10_MIN.md':return '<a href="#parcours" data-view="parcours">'+title+'</a>'
+   normalized=os.path.normpath(prefix+raw)
+   if normalized=='architecture/README.md':return '<a href="#architecture" data-view="architecture">'+title+'</a>'
+   if normalized in architecture_links:
+    chapter=architecture_links[normalized]
+    return '<a href="#'+chapter+'" data-view="architecture" data-arch-open="'+chapter+'">'+title+'</a>'
    return '<a href="'+E(os.path.normpath(prefix+raw),quote=True)+'">'+title+'</a>'
   s=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,s)
   s=re.sub(r'`([^`]+)`',r'<code>\1</code>',s);s=re.sub(r'\*\*([^*]+)\*\*',r'<strong>\1</strong>',s)
@@ -55,15 +62,20 @@ CSS='''*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;backgro
 
 reg=json.loads((ROOT/'donnees/registre-courant.json').read_text())
 families=json.loads((ROOT/'donnees/familles.json').read_text())
-sections=[('accueil','Accueil','README.md'),('parcours','10 minutes','PARCOURS_10_MIN.md'),('etat','État de la recherche','SYNTHESE.md'),('onion','La piste .onion','PISTE_ONION.md'),('fiches','171 fiches',None),('atlas','75 images',None),('credits','Crédits','ATTRIBUTION.md')]
+sections=[('accueil','Accueil','README.md'),('parcours','10 minutes','PARCOURS_10_MIN.md'),('architecture','Architecture / VM','architecture/README.md'),('etat','État de la recherche','SYNTHESE.md'),('onion','La piste .onion','PISTE_ONION.md'),('fiches','171 fiches',None),('atlas','75 images',None),('credits','Crédits','ATTRIBUTION.md')]
 CSS+=' .guide-figure{margin:28px 0}.guide-figure img{display:block;width:100%;max-height:710px;object-fit:contain}#parcours td img{width:100%;height:250px;object-fit:contain}#parcours h2{margin-top:36px}'
+CSS+=' #architecture .guide-figure img{max-height:none}.arch-body{padding:6px 24px 26px;border-top:1px solid #dbe1d6}.arch-controls{display:flex;gap:12px;margin:24px 0}.arch-item{border-left:4px solid #557e5e}.arch-item summary{font-size:19px}.arch-item .desc{font-weight:400}.arch-item:target{outline:2px solid #557e5e}'
 out=['<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ATELIER PRIMUS — Liber Primus</title><style>'+CSS+'</style></head><body><header><div class="kicker">MarcelDuSHAmp · Collaboration IA : ASTRA GPT-6</div><h1>ATELIER PRIMUS.<br>Liber Primus.</h1><p class="lead">Résultats, état de la recherche et piste d’export vers deux identifiants Tor candidats.</p><p>État du 22 octobre 2026 · édition v0.1.0</p><div class="notice"><strong>Calcul reproductible ; destination non authentifiée.</strong><br>Les sorties candidates et les variantes sont exposées avec leurs limites. Aucune nouvelle page LP2 déchiffrée n’est revendiquée.</div></header><main><nav class="nav" aria-label="Sections">']
 for i,(sid,title,path) in enumerate(sections):
  out.append('<button data-view="'+sid+'"'+(' class="active"' if i==0 else '')+'>'+E(title)+'</button>')
 out.append('</nav>')
 for i,(sid,title,path) in enumerate(sections):
  out.append('<section id="'+sid+'"'+(' hidden' if i else '')+'>')
- if path:out.append(md((ROOT/path).read_text(),render_images=sid=='parcours'))
+ if path:out.append(md((ROOT/path).read_text(),prefix=str(Path(path).parent)+'/' if '/' in path else '',render_images=sid in ('parcours','architecture')))
+ if sid=='architecture':
+  out.append('<h2>Déplier les dossiers</h2><p>Les huit branches ci-dessous contiennent les dossiers complets. Les tables distinguent les calculs, les fonctions proposées et les contre-épreuves.</p><div class="arch-controls"><button id="arch-expand">Tout déplier</button><button id="arch-collapse">Tout replier</button></div>')
+  for chapter in architecture['chapters']:
+   out.append('<details class="arch-item" id="'+chapter['id']+'"><summary><span class="id">'+chapter['number']+'</span>'+E(chapter['title'])+'<span class="desc">'+E(' · '.join(chapter['summary']))+'</span></summary><div class="arch-body">'+md((ROOT/chapter['path']).read_text(),prefix='architecture/',render_images=True)+'</div></details>')
  if sid=='onion':out.append('<h2>Les deux sources visuelles</h2><div class="atlas"><a class="page" href="images/G032.jpg"><img src="images/G032-recadrage.png" alt="Grille G032 et son nombre rouge"><strong>G032 — parcours</strong></a><a class="page" href="images/G073.jpg"><img src="images/G073.jpg" alt="Page G073"><strong>G073 — page à rechercher</strong></a></div>')
  if sid=='fiches':
   out.append('<h2>171 fiches attribuées</h2><p>Les anciens statuts sont conservés ; la synthèse et les corrections indiquent les conclusions actuelles.</p><div class="filters"><input id="search" placeholder="G032, lag-5, routage…" aria-label="Rechercher"><select id="family" aria-label="Famille"><option value="">Toutes les familles</option>'+''.join('<option value="'+f['id']+'">'+E(f['nom'])+'</option>' for f in families)+'</select></div><p id="count" class="count"></p>')
@@ -77,5 +89,8 @@ for i,(sid,title,path) in enumerate(sections):
   out.append('</div>')
  out.append('</section>')
 out.append('<footer>MarcelDuSHAmp est un pseudonyme. Les recettes et matériaux antérieurs restent crédités à leurs sources. <a href="CITER.md">Citer cette édition</a>.</footer></main><script>document.querySelectorAll("[data-view]").forEach(b=>b.onclick=()=>{document.querySelectorAll("main>section").forEach(s=>s.hidden=s.id!==b.dataset.view);document.querySelectorAll("[data-view]").forEach(x=>x.classList.toggle("active",x===b));});const q=document.querySelector("#search"),f=document.querySelector("#family"),cards=[...document.querySelectorAll(".card")];function filter(){let n=0;cards.forEach(c=>{let ok=(!f.value||c.dataset.family===f.value)&&(!q.value||c.dataset.search.includes(q.value.toLocaleLowerCase()));c.hidden=!ok;if(ok)n++});document.querySelector("#count").textContent=n+" fiches affichées sur 171";}q.oninput=f.onchange=filter;filter();</script></body></html>')
-(ROOT/'INDEX.html').write_text(''.join(out))
-print('INDEX.html généré : 171 fiches, 75 images sources, sept rubriques dont le parcours illustré.')
+page=''.join(out)
+page=page.replace('x.classList.toggle("active",x===b));','x.classList.toggle("active",x.dataset.view===b.dataset.view));if(b.dataset.archOpen){const d=document.getElementById(b.dataset.archOpen);d.open=true;d.scrollIntoView({block:"start"});}')
+page=page.replace('</script>','document.getElementById("arch-expand").onclick=()=>document.querySelectorAll(".arch-item").forEach(d=>d.open=true);document.getElementById("arch-collapse").onclick=()=>document.querySelectorAll(".arch-item").forEach(d=>d.open=false);const initial=document.querySelector("a[href=\\""+location.hash+"\\"][data-view]");if(initial)initial.click();</script>')
+(ROOT/'INDEX.html').write_text(page)
+print('INDEX.html généré : 171 fiches, 75 images sources, huit rubriques dont Architecture / VM.')

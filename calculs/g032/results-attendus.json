@@ -1,0 +1,1177 @@
+{
+  "special": [
+    [
+      6,
+      126
+    ],
+    [
+      11,
+      222
+    ],
+    [
+      48,
+      253
+    ],
+    [
+      56,
+      254
+    ],
+    [
+      65,
+      255
+    ],
+    [
+      96,
+      222
+    ],
+    [
+      105,
+      63
+    ],
+    [
+      106,
+      31
+    ],
+    [
+      144,
+      125
+    ],
+    [
+      151,
+      189
+    ],
+    [
+      170,
+      254
+    ],
+    [
+      194,
+      159
+    ],
+    [
+      206,
+      127
+    ],
+    [
+      211,
+      61
+    ],
+    [
+      249,
+      158
+    ],
+    [
+      254,
+      189
+    ]
+  ],
+  "matrix": [
+    3258,
+    3222,
+    3152,
+    3038,
+    3278,
+    3299,
+    3298,
+    2838,
+    3288,
+    3294,
+    3296,
+    2472,
+    4516,
+    1206,
+    708,
+    1820
+  ],
+  "fib": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    8,
+    13,
+    21,
+    34,
+    55,
+    89,
+    144,
+    233,
+    377,
+    610,
+    987
+  ],
+  "primes": [
+    2,
+    3,
+    5,
+    7,
+    13,
+    23,
+    43,
+    79,
+    149,
+    263,
+    463,
+    829,
+    1481,
+    2593,
+    4507,
+    7817
+  ],
+  "derived": [
+    3299,
+    3298,
+    3296,
+    3294,
+    3288,
+    3278,
+    3258,
+    3222,
+    3152,
+    3038,
+    2838,
+    2472,
+    1820,
+    708,
+    1206,
+    4516
+  ],
+  "orders": {
+    "A": {
+      "order": [
+        6,
+        7,
+        11,
+        10,
+        9,
+        5,
+        1,
+        2,
+        3,
+        4,
+        8,
+        12,
+        16,
+        15,
+        14,
+        13
+      ],
+      "bytes": [
+        222,
+        63,
+        254,
+        189,
+        125,
+        255,
+        126,
+        222,
+        253,
+        254,
+        31,
+        159,
+        189,
+        158,
+        61,
+        127
+      ],
+      "red_cell6": 255,
+      "class30_cells1": [
+        1,
+        3,
+        7,
+        8,
+        10,
+        14
+      ],
+      "components30": [
+        [
+          0
+        ],
+        [
+          2,
+          6,
+          7
+        ],
+        [
+          9,
+          13
+        ]
+      ],
+      "route_if_used_as_read": {
+        "start": 6,
+        "end": 13,
+        "adjacent_edges": 15
+      },
+      "hhhcc": {
+        "bits": "11010001111111010101011011111101110110101110111110000111001110101100100010101111",
+        "hex": "d1fd56fddaef873ac8af",
+        "base32": "2h6vn7o256dtvsfp"
+      },
+      "cchhh": {
+        "bits": "10110110011011101101010111111110011101100111110111110001110001101101000100111011",
+        "hex": "b66ed5fe767df1c6d13b",
+        "base32": "wzxnl7twpxy4nuj3"
+      }
+    },
+    "B": {
+      "order": [
+        13,
+        14,
+        15,
+        16,
+        12,
+        8,
+        4,
+        3,
+        2,
+        1,
+        5,
+        9,
+        10,
+        11,
+        7,
+        6
+      ],
+      "bytes": [
+        127,
+        61,
+        158,
+        189,
+        159,
+        31,
+        254,
+        253,
+        222,
+        126,
+        255,
+        125,
+        189,
+        254,
+        63,
+        222
+      ],
+      "red_cell6": 31,
+      "class30_cells1": [
+        3,
+        7,
+        9,
+        10,
+        14,
+        16
+      ],
+      "components30": [
+        [
+          2,
+          6
+        ],
+        [
+          8,
+          9,
+          13
+        ],
+        [
+          15
+        ]
+      ],
+      "route_if_used_as_read": {
+        "start": 13,
+        "end": 6,
+        "adjacent_edges": 15
+      },
+      "hhhcc": {
+        "bits": "01111001011001010101100110001111110111011101001110111110110110101111100011111010",
+        "hex": "7965598fddd3bedaf8fa",
+        "base32": "pfsvtd652o7nv6h2"
+      },
+      "cchhh": {
+        "bits": "11011010011010001101111001100010111011111011010011111110101101101101111100110110",
+        "hex": "da68de62efb4feb6df36",
+        "base32": "3jun4yxpwt7lnxzw"
+      }
+    },
+    "C": {
+      "order": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "bytes": [
+        126,
+        222,
+        253,
+        254,
+        255,
+        222,
+        63,
+        31,
+        125,
+        189,
+        254,
+        159,
+        127,
+        61,
+        158,
+        189
+      ],
+      "red_cell6": 222,
+      "class30_cells1": [
+        1,
+        2,
+        4,
+        6,
+        11,
+        15
+      ],
+      "components30": [
+        [
+          0,
+          1,
+          5
+        ],
+        [
+          3
+        ],
+        [
+          10,
+          14
+        ]
+      ],
+      "route_if_used_as_read": {
+        "start": 1,
+        "end": 16,
+        "adjacent_edges": 12
+      },
+      "hhhcc": {
+        "bits": "01110110101110111110111111101000111000110110110101111101001101111001011001010101",
+        "hex": "76bbefe8e36d7d379655",
+        "base32": "o25672hdnv6tpfsv"
+      },
+      "cchhh": {
+        "bits": "10011101100111110111111111011011001110000101101101101111110011011010011010001101",
+        "hex": "9d9f7fdb385b6fcda68d",
+        "base32": "twpx7wzylnx43jun"
+      }
+    },
+    "D": {
+      "order": [
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "bytes": [
+        189,
+        158,
+        61,
+        127,
+        159,
+        254,
+        189,
+        125,
+        31,
+        63,
+        222,
+        255,
+        254,
+        253,
+        222,
+        126
+      ],
+      "red_cell6": 254,
+      "class30_cells1": [
+        2,
+        6,
+        11,
+        13,
+        15,
+        16
+      ],
+      "components30": [
+        [
+          1,
+          5
+        ],
+        [
+          10,
+          14,
+          15
+        ],
+        [
+          12
+        ]
+      ],
+      "route_if_used_as_read": {
+        "start": 16,
+        "end": 1,
+        "adjacent_edges": 12
+      },
+      "hhhcc": {
+        "bits": "10101100100010101111100111111010101011010001100111110101111111110111011101001110",
+        "hex": "ac8af9faad19f5ff774e",
+        "base32": "vsfpt6vndh27652o"
+      },
+      "cchhh": {
+        "bits": "01101101000100111011111001011101101010111100011001101101111110111011111011010011",
+        "hex": "6d13be5dabc66dfbbed3",
+        "base32": "nuj34xnlyzw7xpwt"
+      }
+    },
+    "E": {
+      "order": [
+        7,
+        8,
+        9,
+        10,
+        6,
+        1,
+        2,
+        11,
+        5,
+        4,
+        3,
+        12,
+        16,
+        15,
+        14,
+        13
+      ],
+      "bytes": [
+        63,
+        31,
+        125,
+        189,
+        222,
+        126,
+        222,
+        254,
+        255,
+        254,
+        253,
+        159,
+        189,
+        158,
+        61,
+        127
+      ],
+      "red_cell6": 126,
+      "class30_cells1": [
+        5,
+        6,
+        7,
+        8,
+        10,
+        14
+      ],
+      "components30": [
+        [
+          4,
+          5,
+          6,
+          7,
+          9,
+          13
+        ]
+      ],
+      "route_if_used_as_read": {
+        "start": 7,
+        "end": 13,
+        "adjacent_edges": 9
+      },
+      "hhhcc": {
+        "bits": "00111000110110110101110100111011010111101111111110111011001110101100100010101111",
+        "hex": "38db5d3b5effbb3ac8af",
+        "base32": "hdnv2o26765tvsfp"
+      },
+      "cchhh": {
+        "bits": "11001110000101101101101101001110110101111111110111011111110001101101000100111011",
+        "hex": "ce16db4ed7fddfc6d13b",
+        "base32": "zylnwtwx7xp4nuj3"
+      }
+    },
+    "F": {
+      "order": [
+        13,
+        14,
+        15,
+        16,
+        12,
+        3,
+        4,
+        5,
+        11,
+        2,
+        1,
+        6,
+        10,
+        9,
+        8,
+        7
+      ],
+      "bytes": [
+        127,
+        61,
+        158,
+        189,
+        159,
+        253,
+        254,
+        255,
+        254,
+        222,
+        126,
+        222,
+        189,
+        125,
+        31,
+        63
+      ],
+      "red_cell6": 253,
+      "class30_cells1": [
+        3,
+        7,
+        9,
+        10,
+        11,
+        12
+      ],
+      "components30": [
+        [
+          2,
+          6,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "route_if_used_as_read": {
+        "start": 13,
+        "end": 7,
+        "adjacent_edges": 9
+      },
+      "hhhcc": {
+        "bits": "01111001011001010101100111110111110111111111011010011101101010101011010001100111",
+        "hex": "796559f7dff69daab467",
+        "base32": "pfsvt56762o2vndh"
+      },
+      "cchhh": {
+        "bits": "11011010011010001101111000111110111111111011110110100111011001101010111100011001",
+        "hex": "da68de3effbda766af19",
+        "base32": "3jun4px7xwtwnlyz"
+      }
+    }
+  },
+  "T_core": [
+    3,
+    6,
+    7
+  ],
+  "T_leaves": [
+    6,
+    7,
+    4
+  ],
+  "conditional_mask_count": {
+    "T_placements": 16,
+    "total": 8008,
+    "success_any_six_orders": 48,
+    "discovery_pvalue": null
+  },
+  "controls": {
+    "23": {
+      "old_expected_sum": 284,
+      "variants": {
+        "A": {
+          "source_positions": [
+            10,
+            2,
+            12,
+            13
+          ],
+          "sum": 284,
+          "literal": "T EA C Y"
+        },
+        "B": {
+          "source_positions": [
+            16,
+            3,
+            9,
+            6
+          ],
+          "sum": 238,
+          "literal": "EA J W L"
+        },
+        "C": {
+          "source_positions": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "sum": 266,
+          "literal": "B OE C EA"
+        },
+        "D": {
+          "source_positions": [
+            13,
+            9,
+            5,
+            1
+          ],
+          "sum": 182,
+          "literal": "Y W W EO"
+        },
+        "E": {
+          "source_positions": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "sum": 186,
+          "literal": "T R C Y"
+        },
+        "F": {
+          "source_positions": [
+            16,
+            5,
+            6,
+            7
+          ],
+          "sum": 238,
+          "literal": "EA W L J"
+        }
+      }
+    },
+    "40": {
+      "old_expected_sum": 130,
+      "variants": {
+        "A": {
+          "source_positions": [
+            10,
+            2,
+            12,
+            13
+          ],
+          "sum": 130,
+          "literal": "S G X C"
+        },
+        "B": {
+          "source_positions": [
+            16,
+            3,
+            9,
+            6
+          ],
+          "sum": 302,
+          "literal": "T I Y EA"
+        },
+        "C": {
+          "source_positions": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "sum": 240,
+          "literal": "Y I X T"
+        },
+        "D": {
+          "source_positions": [
+            13,
+            9,
+            5,
+            1
+          ],
+          "sum": 314,
+          "literal": "C Y AE A"
+        },
+        "E": {
+          "source_positions": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "sum": 222,
+          "literal": "S EA X C"
+        },
+        "F": {
+          "source_positions": [
+            16,
+            5,
+            6,
+            7
+          ],
+          "sum": 310,
+          "literal": "T AE EA EO"
+        }
+      }
+    },
+    "43": {
+      "old_expected_sum": 162,
+      "variants": {
+        "A": {
+          "source_positions": [
+            10,
+            2,
+            12,
+            13
+          ],
+          "sum": 162,
+          "literal": "T O L H"
+        },
+        "B": {
+          "source_positions": [
+            16,
+            3,
+            9,
+            6
+          ],
+          "sum": 262,
+          "literal": "EA IA P U"
+        },
+        "C": {
+          "source_positions": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "sum": 208,
+          "literal": "H U L EA"
+        },
+        "D": {
+          "source_positions": [
+            13,
+            9,
+            5,
+            1
+          ],
+          "sum": 280,
+          "literal": "H P IA IA"
+        },
+        "E": {
+          "source_positions": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "sum": 172,
+          "literal": "T G L H"
+        },
+        "F": {
+          "source_positions": [
+            16,
+            5,
+            6,
+            7
+          ],
+          "sum": 262,
+          "literal": "EA IA U P"
+        }
+      }
+    },
+    "49": {
+      "old_expected_sum": 168,
+      "variants": {
+        "A": {
+          "source_positions": [
+            10,
+            2,
+            12,
+            13
+          ],
+          "sum": 168,
+          "literal": "A W TH X"
+        },
+        "B": {
+          "source_positions": [
+            16,
+            3,
+            9,
+            6
+          ],
+          "sum": 159,
+          "literal": "J C IA F"
+        },
+        "C": {
+          "source_positions": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "sum": 238,
+          "literal": "IA D TH J"
+        },
+        "D": {
+          "source_positions": [
+            13,
+            9,
+            5,
+            1
+          ],
+          "sum": 288,
+          "literal": "X IA B L"
+        },
+        "E": {
+          "source_positions": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "sum": 166,
+          "literal": "A G TH X"
+        },
+        "F": {
+          "source_positions": [
+            16,
+            5,
+            6,
+            7
+          ],
+          "sum": 105,
+          "literal": "J B F TH"
+        }
+      }
+    },
+    "54": {
+      "old_expected_sum": 200,
+      "variants": {
+        "A": {
+          "source_positions": [
+            10,
+            2,
+            12,
+            13
+          ],
+          "sum": 200,
+          "literal": "A I S W"
+        },
+        "B": {
+          "source_positions": [
+            16,
+            3,
+            9,
+            6
+          ],
+          "sum": 270,
+          "literal": "A Y R T"
+        },
+        "C": {
+          "source_positions": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "sum": 210,
+          "literal": "X C S A"
+        },
+        "D": {
+          "source_positions": [
+            13,
+            9,
+            5,
+            1
+          ],
+          "sum": 108,
+          "literal": "W R I X"
+        },
+        "E": {
+          "source_positions": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "sum": 266,
+          "literal": "A A S W"
+        },
+        "F": {
+          "source_positions": [
+            16,
+            5,
+            6,
+            7
+          ],
+          "sum": 210,
+          "literal": "A I T H"
+        }
+      }
+    },
+    "59": {
+      "old_expected_sum": 140,
+      "variants": {
+        "A": {
+          "source_positions": [
+            10,
+            2,
+            12,
+            13
+          ],
+          "sum": 140,
+          "literal": "W TH P L"
+        },
+        "B": {
+          "source_positions": [
+            16,
+            3,
+            9,
+            6
+          ],
+          "sum": 284,
+          "literal": "L R A Y"
+        },
+        "C": {
+          "source_positions": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "sum": 224,
+          "literal": "TH Y P L"
+        },
+        "D": {
+          "source_positions": [
+            13,
+            9,
+            5,
+            1
+          ],
+          "sum": 326,
+          "literal": "L A E D"
+        },
+        "E": {
+          "source_positions": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "sum": 188,
+          "literal": "W S P L"
+        },
+        "F": {
+          "source_positions": [
+            16,
+            5,
+            6,
+            7
+          ],
+          "sum": 284,
+          "literal": "L E Y EO"
+        }
+      }
+    },
+    "64": {
+      "old_expected_sum": 236,
+      "variants": {
+        "A": {
+          "source_positions": [
+            10,
+            2,
+            12,
+            13
+          ],
+          "sum": 236,
+          "literal": "E EO W EA"
+        },
+        "B": {
+          "source_positions": [
+            16,
+            3,
+            9,
+            6
+          ],
+          "sum": 232,
+          "literal": "N M AE I"
+        },
+        "C": {
+          "source_positions": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "sum": 78,
+          "literal": "W R W N"
+        },
+        "D": {
+          "source_positions": [
+            13,
+            9,
+            5,
+            1
+          ],
+          "sum": 258,
+          "literal": "EA AE P TH"
+        },
+        "E": {
+          "source_positions": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "sum": 232,
+          "literal": "E J W EA"
+        },
+        "F": {
+          "source_positions": [
+            16,
+            5,
+            6,
+            7
+          ],
+          "sum": 122,
+          "literal": "N P I W"
+        }
+      }
+    },
+    "68": {
+      "old_expected_sum": 294,
+      "variants": {
+        "A": {
+          "source_positions": [
+            10,
+            2,
+            12,
+            13
+          ],
+          "sum": 294,
+          "literal": "A N D ING"
+        },
+        "B": {
+          "source_positions": [
+            16,
+            3,
+            9,
+            6
+          ],
+          "sum": 224,
+          "literal": "A M J W"
+        },
+        "C": {
+          "source_positions": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "sum": 330,
+          "literal": "J IA D A"
+        },
+        "D": {
+          "source_positions": [
+            13,
+            9,
+            5,
+            1
+          ],
+          "sum": 260,
+          "literal": "ING J AE P"
+        },
+        "E": {
+          "source_positions": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "sum": 336,
+          "literal": "A M D ING"
+        },
+        "F": {
+          "source_positions": [
+            16,
+            5,
+            6,
+            7
+          ],
+          "sum": 220,
+          "literal": "A AE W U"
+        }
+      }
+    }
+  },
+  "title32": {
+    "runes": "ᚠᚢᛚᛗ-ᚪᛠᚣᛟᚪ",
+    "word_sums": [
+      149,
+      489
+    ],
+    "total": 638,
+    "mod256": 126
+  },
+  "title_probes": [
+    {
+      "sum": 149,
+      "mod256": 149,
+      "raw_lookup": 174,
+      "haddr": 172,
+      "haddr_lookup": 148
+    },
+    {
+      "sum": 489,
+      "mod256": 233,
+      "raw_lookup": 234,
+      "haddr": 79,
+      "haddr_lookup": 82
+    },
+    {
+      "sum": 638,
+      "mod256": 126,
+      "raw_lookup": 163,
+      "haddr": 243,
+      "haddr_lookup": 214
+    }
+  ],
+  "ring_readings": [
+    "01011",
+    "01101",
+    "10101",
+    "10110",
+    "11010"
+  ],
+  "bit_order": {
+    "constant_positions_lsb0": [
+      2,
+      3,
+      4
+    ],
+    "value_domain_size": 24,
+    "numeric_inversions_hhhcc": 0,
+    "numeric_inversions_cchhh": 84
+  }
+}

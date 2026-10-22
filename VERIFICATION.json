@@ -1,0 +1,19 @@
+{
+  "etat_scientifique": "2026-10-22",
+  "edition": "v0.1.0",
+  "auteur_public": "MarcelDuSHAmp (pseudonyme)",
+  "collaboration": "Collaboration IA : ASTRA GPT-6",
+  "fiches_attribuees": 171,
+  "images_verifiees": 75,
+  "exports_base32_verifies": 12,
+  "rejeu_calculs": "PASS",
+  "liens_locaux": "PASS",
+  "syntaxe_javascript": "PASS",
+  "references_personnelles_et_de_compte": "Aucune occurrence des identifiants personnels et liens privés recherchés",
+  "limites": [
+    "Pas de nouvelle authentification Tor",
+    "Pas de retranscription indépendante de F0",
+    "Scans externes, campagnes ASTRA/761 et MCMC lag-5 non relancés pour cette édition"
+  ],
+  "depot_cible": "https://github.com/MarcelDuSHAmp/atelier-primus"
+}

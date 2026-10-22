@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Citez cette édition et les sources originales des résultats repris."
+title: "ATELIER PRIMUS — Liber Primus : résultats et piste d’export Tor"
+type: software
+authors:
+  - name: "MarcelDuSHAmp (pseudonyme)"
+version: "0.1.0"
+abstract: "Dossier de recherche reproductible. Collaboration IA : ASTRA GPT-6. Les identifiants Tor candidats ne sont pas authentifiés."
